@@ -34,15 +34,34 @@ class Database:
                 f.write(post_id + '\n')
 
 
-def getBracketedTexts(subreddit, results=10):
+def uniqueify(array):
+    newArray = []
+    for value in array:
+        if value not in newArray:
+            newArray.append(value)
+    return newArray
+
+
+def extractBracketedTextFromSubmission(submission):
     bracketedTexts = []
-    for submission in subreddit.new(limit=results):
-        submission.comments.replace_more(limit=None)
-        for comment in submission.comments.list():
-            matches = re.findall(r'\[\[(.*?)\]\]', comment.body, re.M | re.I)
-            for group in matches:
-                bracketedTexts.append(BracketedText(group, comment))
+    submission.comments.replace_more(limit=None)
+    for comment in submission.comments.list():
+        matches = re.findall(r'\[\[(.*?)\]\]', comment.body, re.M | re.I)
+        for group in matches:
+            bracketedTexts.append(BracketedText(group, comment))
     return bracketedTexts
+
+
+def getBracketedTexts(subreddit):
+    resultLimit = 20
+    bracketedTexts = []
+    for submission in subreddit.new(limit=resultLimit):
+        for val in extractBracketedTextFromSubmission(submission):
+            bracketedTexts.append(val)
+    for submission in subreddit.hot(limit=resultLimit):
+        for val in extractBracketedTextFromSubmission(submission):
+            bracketedTexts.append(val)
+    return uniqueify(bracketedTexts)
 
 
 possibleClasses = ['Neutral', 'Druid', 'Hunter', 'Mage',
@@ -81,6 +100,7 @@ spellDescriptions = [
 
 
 def generateDescription(name, imageUrl, postUrl):
+    name = name if name != '' else '_'
     selectedClass = random.choice(possibleClasses)
     cardType = random.choice(possibleTypes)
     rarity = random.choice(rarities)
@@ -102,12 +122,13 @@ druidscanbotSubreddit = reddit.subreddit('DruidscanBot')
 herbjerkSubreddit = reddit.subreddit('HearthstoneCircleJerk')
 bracketedTexts = [x for x in getBracketedTexts(
     herbjerkSubreddit) if x.post.id not in database.posts_replied_to]
-imagePosts = [x for x in druidscanbotSubreddit.hot(limit=20) if not re.match(
-    r'.*www\.reddit\.com.*', x.url, re.M | re.I)]
-for bracketedText in bracketedTexts:
-    imagePost = random.choice(imagePosts)
-    bracketedText.post.reply(generateDescription(
-        bracketedText.text, imagePost.url, imagePost.permalink))
-    database.addPostToReplied(bracketedText.post)
+if len(bracketedTexts) > 0:
+    imagePosts = [x for x in druidscanbotSubreddit.hot(limit=20) if not re.match(
+        r'.*www\.reddit\.com.*', x.url, re.M | re.I)]
+    for bracketedText in bracketedTexts:
+        imagePost = random.choice(imagePosts)
+        bracketedText.post.reply(generateDescription(
+            bracketedText.text, imagePost.url, imagePost.permalink))
+        database.addPostToReplied(bracketedText.post)
 
 database.saveToDatabase()
