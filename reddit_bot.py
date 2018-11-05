@@ -53,7 +53,7 @@ def extractBracketedTextFromSubmission(submission):
 
 
 def getBracketedTexts(subreddit):
-    resultLimit = 20
+    resultLimit = 50
     bracketedTexts = []
     for submission in subreddit.new(limit=resultLimit):
         for val in extractBracketedTextFromSubmission(submission):
