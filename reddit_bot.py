@@ -51,7 +51,8 @@ def extractBracketedTextFromSubmission(submission):
     bracketedTexts = []
     submission.comments.replace_more(limit=None)
     for comment in submission.comments.list():
-        matches = re.findall(r'\[\[(.*?)\]\]', comment.body, re.M | re.I)
+        matches = re.findall(
+            r'\\?\[\\?\[(.*?)\\?\]\\?\]', comment.body, re.M | re.I)
         for group in matches:
             bracketedTexts.append(BracketedText(group, comment))
     return bracketedTexts
@@ -66,6 +67,8 @@ def getBracketedTexts(subreddit):
     for submission in subreddit.hot(limit=resultLimit):
         for val in extractBracketedTextFromSubmission(submission):
             bracketedTexts.append(val)
+    for val in uniqueify(bracketedTexts):
+        print(val.text)
     return uniqueify(bracketedTexts)
 
 
