@@ -13,6 +13,11 @@ class BracketedText:
         self.text = text
         self.post = post
 
+    def __eq__(self, other):
+        if isinstance(other, BracketedText):
+            return self.text == other.text and self.post.id == other.post.id
+        return False
+
 
 class Database:
     filepath = 'posts_replied_to.txt'
@@ -53,7 +58,7 @@ def extractBracketedTextFromSubmission(submission):
 
 
 def getBracketedTexts(subreddit):
-    resultLimit = 50
+    resultLimit = 30
     bracketedTexts = []
     for submission in subreddit.new(limit=resultLimit):
         for val in extractBracketedTextFromSubmission(submission):
