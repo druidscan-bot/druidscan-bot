@@ -4,6 +4,7 @@ import re
 import os
 import random
 import string
+import time
 
 reddit = praw.Reddit('bot1')
 
@@ -39,12 +40,12 @@ class Database:
                 f.write(post_id + '\n')
 
 
-def uniqueify(array):
-    newArray = []
-    for value in array:
-        if value not in newArray:
-            newArray.append(value)
-    return newArray
+def uniqueify(seq):
+    u = []
+    for x in seq:
+        if x not in u:
+            u.append(x)
+    return u
 
 
 def extractBracketedTextFromSubmission(submission):
@@ -67,8 +68,6 @@ def getBracketedTexts(subreddit):
     for submission in subreddit.hot(limit=resultLimit):
         for val in extractBracketedTextFromSubmission(submission):
             bracketedTexts.append(val)
-    for val in uniqueify(bracketedTexts):
-        print(val.text)
     return uniqueify(bracketedTexts)
 
 
@@ -121,22 +120,39 @@ def generateDescription(name, imageUrl, postUrl):
     minionType = minionType + ' ' if minionType != '' else ''
     description = random.choice(
         spellDescriptions) if cardType == 'Spell' else random.choice(nonSpellDescriptions)
-    return f'* [{name}]({imageUrl}) {selectedClass} {cardType} {rarity} {expansion}\n\n {manaCost}/{attack}/{health} {minionType}| {description}\n\n[About](https://www.reddit.com/r/DruidscanBot/comments/9u0e36/how_this_works/)&nbsp;&nbsp;&nbsp;[Original Post]({postUrl})'
+    return f'* [{name}]({imageUrl}) {selectedClass} {cardType} {rarity} {expansion}\n\n {manaCost}/{attack}/{health} {minionType}| {description}\n\n [Original Post]({postUrl})\n\n'
 
 
 database = Database()
 
 druidscanbotSubreddit = reddit.subreddit('DruidscanBot')
 herbjerkSubreddit = reddit.subreddit('HearthstoneCircleJerk')
+
 bracketedTexts = [x for x in getBracketedTexts(
     herbjerkSubreddit) if x.post.id not in database.posts_replied_to]
+
 if len(bracketedTexts) > 0:
+    bracketedTextDictionary = {}
+    for bracketedText in bracketedTexts:
+        if bracketedText.post.id in bracketedTextDictionary:
+            bracketedTextDictionary[bracketedText.post.id].append(
+                bracketedText)
+        else:
+            bracketedTextDictionary[bracketedText.post.id] = [bracketedText]
     imagePosts = [x for x in druidscanbotSubreddit.hot(limit=20) if not re.match(
         r'.*www\.reddit\.com.*', x.url, re.M | re.I)]
-    for bracketedText in bracketedTexts:
-        imagePost = random.choice(imagePosts)
-        bracketedText.post.reply(generateDescription(
-            bracketedText.text, imagePost.url, imagePost.permalink))
-        database.addPostToReplied(bracketedText.post)
-
-database.saveToDatabase()
+    try:
+        for postId in bracketedTextDictionary:
+            post = bracketedTextDictionary[postId].post
+            description = ''
+            for bracketedText in bracketedTextDictionary[postId]:
+                imagePost = random.choice(imagePosts)
+                description += generateDescription(
+                    bracketedText.text, imagePost.url, imagePost.permalink)
+            description += '[About](https://www.reddit.com/r/DruidscanBot/comments/9u0e36/how_this_works/)&nbsp;&nbsp;[Code for nerds](https://github.com/druidscan-bot/druidscan-bot)'
+            post.reply(description)
+            database.addPostToReplied(post)
+    except:
+        pass
+    finally:
+        database.saveToDatabase()
