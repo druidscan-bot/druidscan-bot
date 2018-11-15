@@ -143,7 +143,7 @@ if len(bracketedTexts) > 0:
         r'.*www\.reddit\.com.*', x.url, re.M | re.I)]
     try:
         for postId in bracketedTextDictionary:
-            post = bracketedTextDictionary[postId].post
+            post = bracketedTextDictionary[postId][0].post
             description = ''
             for bracketedText in bracketedTextDictionary[postId]:
                 imagePost = random.choice(imagePosts)
