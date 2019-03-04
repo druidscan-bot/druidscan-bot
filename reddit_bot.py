@@ -6,6 +6,8 @@ from hearthstone_circlejerk_subreddit_processor import HearthstoneCirclejerkSubr
 from druidscanbot_subreddit_processor import DruidscanbotSubredditProcessor
 from post_generator import PostGenerator
 
+dryRun = len(sys.argv) > 1 and sys.argv[1] == '-d'
+
 database = Database('posts_replied_to.txt')
 hearthstoneCirclejerkSubredditProcessor = HearthstoneCirclejerkSubredditProcessor()
 druidscanbotSubredditProcessor = DruidscanbotSubredditProcessor()
@@ -19,8 +21,6 @@ commentsWithBracketedTexts = hearthstoneCirclejerkSubredditProcessor.process(her
 imagePosts = druidscanbotSubredditProcessor.process(druidscanbotSubreddit)
 
 commentsToReplyTo = [x for x in commentsWithBracketedTexts if x.post.id not in database.postsRepliedTo()]
-
-dryRun = sys.argv[1] == '-d'
 
 try:
     for comment in commentsToReplyTo:
