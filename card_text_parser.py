@@ -16,7 +16,8 @@ def turnRowToString(row):
         .replace("</i>", "")\
         .replace("{0}", "")\
         .replace("{1}", "")\
-        .replace("\u00a0", " ")\
+        .replace("\\u00a0", " ")\
+        .replace("\\u2019", "'")\
         .replace("\\n", " ")
 
 request = urllib.request.Request("https://api.hearthstonejson.com/v1/28855/enUS/cards.collectible.json", headers={'Accept': 'text/html', 'User-Agent': 'Mozilla/5.0'})

@@ -129,29 +129,29 @@ Battlecry: Reveal a minion in each deck. If yours costs more, gain +1/+1.
 Magnetic Rush
 Magnetic Taunt
 Deathrattle: Deal 2 damage to the enemy hero.
-Deal 2 damage. Summon a 0/2 Goblin\u00a0Bomb.
+Deal 2 damage. Summon a 0/2 Goblin Bomb.
 Battlecry: Summon four 0/2 Goblin Bombs.
 Magnetic Poisonous
 Battlecry: Give a friendly Mech +1/+1. If it has Deathrattle, trigger it.
 Your Deathrattles trigger twice.
 Each player equips a 2/3 Weapon and gains 6 Armor.
 Taunt Lifesteal
-Each player gains 2\u00a0Mana Crystals.
-Whenever this minion takes damage, gain 2\u00a0Armor.
+Each player gains 2 Mana Crystals.
+Whenever this minion takes damage, gain 2 Armor.
 Deathrattle: Summon a 7/7 Mechanical Dragon.
 Give a minion Rush. Draw a card.
 Summon 3 random minions from your hand. Give them Rush.
 Battlecry: Give a friendly Mech +1/+1.
 Battlecry: Give your weapon +1 Attack.
-Add 2 random Deathrattle cards to\u00a0your hand.
-Shuffle 10 cards from your opponent's class into your deck. They\u00a0cost (1).
-Draw a card. Copy it if\u00a0you played an Elemental last turn.
+Add 2 random Deathrattle cards to your hand.
+Shuffle 10 cards from your opponent's class into your deck. They cost (1).
+Draw a card. Copy it if you played an Elemental last turn.
 Can only attack if you cast a spell this turn.
-Summon a copy of\u00a0a\u00a0random minion from your hand.
+Summon a copy of a random minion from your hand.
 Add 2 random minions to your hand.
 Rush Deathrattle: Add two 1/1 Sparks with Rush to your hand.
 After you play the right-most card in your hand, draw a card.
-Battlecry: Deal 5 damage randomly split among all minions\u00a0except\u00a0Mechs.
+Battlecry: Deal 5 damage randomly split among all minions except Mechs.
 Magnetic At the end of your turn, deal 1 damage to all other characters.
 Battlecry: If you have 10 Mana Crystals, restore 10 Health to your hero.
 Whenever this minion takes damage, summon a 2/3 Mech with Taunt.
@@ -167,24 +167,24 @@ Draw the rest of your deck.
 Battlecry: Discover a Deathrattle minion. Also gain its Deathrattle.
 Transform your minions into random Legendary minions.
 Deal 1 damage to all minions. Overload: (2)
-Magnetic Deathrattle: Destroy a random\u00a0enemy\u00a0minion.
+Magnetic Deathrattle: Destroy a random enemy minion.
 Summon two random 2-Cost minions (improved by Spell Damage).
 Battlecry: Summon a random minion with Cost equal to your hand size.
 Change the Cost of minions in your deck to (1).
 Deathrattle: If you've cast any spells on this minion, resummon it.
 Give the left-most minion in your hand +2/+2.
 Deathrattle: Summon a random minion from your hand that costs (2) or less.
-Battlecry: Summon two 1/2 Mechs with Taunt and\u00a0Divine Shield.
-After your opponent plays a minion, summon a 1/1\u00a0copy of it.
+Battlecry: Summon two 1/2 Mechs with Taunt and Divine Shield.
+After your opponent plays a minion, summon a 1/1 copy of it.
 Battlecry: Gain +2/+2 for each other Pogo-Hopper you played this game.
 Deathrattle: Trigger the Deathrattle of a random friendly minion.
 Battlecry: Shuffle 3 copies of a friendly minion into your deck.
-Battlecry: Draw a spell from your deck that costs\u00a0(5) or more.
+Battlecry: Draw a spell from your deck that costs (5) or more.
 Taunt Battlecry: If you have 10 Mana Crystals, gain +10 Attack.
 Discover a Mech. If you have 10 Mana Crystals, keep all 3 cards.
 Battlecry: Deal 2 damage.
 Magnetic Deathrattle: Summon three 1/1 Microbots.
-Deathrattle: Add a random Legendary minion to your\u00a0hand.
+Deathrattle: Add a random Legendary minion to your hand.
 Discover a Secret.
 Draw a 7, 8, 9, and 10-Cost minion  from your deck.
 After you attack a minion, force it to attack one of its neighbors.
@@ -198,13 +198,13 @@ Choose One - Give your other minions +1/+1; or Summon two 2/2 Treants.
 At the end of your turn, reduce the Cost of a random minion in your hand by (7).
 Deathrattle: If you have no cards in your deck, hand, and battlefield, destroy the enemy hero.
 Summon 3 minions from your deck. They attack enemy minions, then die.
-Battlecry: Summon a 0/2\u00a0Goblin Bomb.
+Battlecry: Summon a 0/2 Goblin Bomb.
 Deathrattle: Swap this with a minion from your deck.
 While in your hand, this is a 3/4 copy of the last minion you played.
 Discover a copy of a minion in your opponent's deck.
 Draw a minion and a spell from your deck. Swap their Costs.
-Give a friendly minion +3/+3 and Rush. It\u00a0dies at end of turn.
-Give your minions \Deathrattle: Add a random Mech to your\u00a0hand.\
+Give a friendly minion +3/+3 and Rush. It dies at end of turn.
+Give your minions \Deathrattle: Add a random Mech to your hand.\
 Deathrattle: Give all Demons in your hand +1/+1.
 Whenever a minion dies this turn, gain 1 Mana Crystal this turn only.
 Deathrattle: Summon a 1/1 Jo-E Bot.
@@ -220,14 +220,14 @@ Swap a minion's Attack and Health.
 Summon copies of all Demons you control.
 Rush. Costs (1) less for each friendly Treant that died this game.
 Choose a friendly minion. Summon a 5/5 copy of it.
-Battlecry: Your next spell\u00a0this turn has Spell\u00a0Damage +2.
+Battlecry: Your next spell this turn has Spell Damage +2.
 Battlecry: Summon two 0/2 Goblin Bombs.
 Battlecry: Add a random Elemental to your hand.
 Divine Shield
 Battlecry: Summon two 1/1 Microbots.
-Battlecry: If you have 10 Mana Crystals, summon \u00a02 copies of this minion.
+Battlecry: If you have 10 Mana Crystals, summon  2 copies of this minion.
 Deathrattle: Summon an 8/8 Robosaur.
-Battlecry: Add a  1/1 Spark with Rush to\u00a0your hand.
+Battlecry: Add a  1/1 Spark with Rush to your hand.
 Battlecry: Discover a spell that costs (5) or more.
 Battlecry: Destroy a Mech.
 Battlecry: If you have 10 Mana Crystals, your spells  have Lifesteal this turn.
@@ -237,20 +237,20 @@ Battlecry: If you're holding a spell that costs (5) or more, gain +1/+1.
 Battlecry: If you control 3 minions with 7 Health, deal 7 damage to all enemies.
 Stealth After your opponent plays a minion, become a copy of it.
 Deathrattle: Return any spells you cast on this minion to your hand.
-Whenever you shuffle a card into a deck, shuffle in\u00a0an extra copy.
+Whenever you shuffle a card into a deck, shuffle in an extra copy.
 Battlecry: Gain Stealth until your next turn.
 Magnetic
 Deathrattle: Summon a 1/1 Ooze with Poisonous and Rush.
 Deathrattle minions you play cost (3) less, but die at the end of the turn.
-Summon a 1/1 copy of\u00a0each minion in your\u00a0deck.
+Summon a 1/1 copy of each minion in your deck.
 Draw 3 cards. At the end of your turn, discard them.
 Battlecry: Draw 5 different Secrets from your deck.
 Combo: Give a friendly minion +4 Attack.
-Each player draws 2\u00a0cards.
+Each player draws 2 cards.
 Battlecry: For each card in your hand, deal 1 damage to a random enemy.
 Rush
 Spell Damage +2
-Deathrattle: Deal 4\u00a0damage to a random enemy minion.
+Deathrattle: Deal 4 damage to a random enemy minion.
 Magnetic
 Battlecry: Reduce the Cost of Mechs in your hand by (1).
 Secret: When one of your minions is attacked, give it Divine Shield.
@@ -283,7 +283,7 @@ Whenever you target this minion with a spell, gain +1/+1.
 Whenever this minion takes damage, summon a 2/1 Whelp.
 Battlecry: If your opponent has 15 or less Health, gain +3/+3.
 Costs (1) less for each minion that died this turn.
-Battlecry: Summon a random 1-Cost minion for\u00a0your opponent.
+Battlecry: Summon a random 1-Cost minion for your opponent.
 Deathrattle: Replace your hero with Ragnaros the Firelord.
 At the end of your turn, reduce the Cost of cards in your hand by (1).
 Battlecry: If you're holding a Dragon, destroy a Legendary minion.
@@ -293,15 +293,15 @@ Battlecry: If you're holding a Dragon, gain +1/+1.
 Battlecry: If you're holding a Dragon, deal 3 damage.
   Battlecry: If your deck has   no duplicates, your Hero  Power costs (1) this game.
 Freeze an enemy.
-Whenever this attacks a minion and survives, draw\u00a0a card.
+Whenever this attacks a minion and survives, draw a card.
 Secret: After your opponent plays a minion, give a random minion in your hand +2/+2.
 Spell Damage +1
 Whenever  you cast a spell, gain +2 Attack.
 Battlecry: Restore 6 Health. Overload: (1)
-Taunt Battlecry: Give adjacent \u00a0minions Divine Shield.
+Taunt Battlecry: Give adjacent  minions Divine Shield.
 Battlecry: Swap the Attack and Health of a minion.
-Whenever you summon a Battlecry minion while this\u00a0is in your hand, gain\u00a0+1/+1.
-Deal 2 damage to all\u00a0minions.
+Whenever you summon a Battlecry minion while this is in your hand, gain +1/+1.
+Deal 2 damage to all minions.
 Battlecry: The next Secret you play this turn costs (0).
 Battlecry: Restore a minion to full Health.
 Deal 5 damage to all characters.
@@ -312,13 +312,13 @@ Give all minions in your hand +1/+1.
 Choose One - Gain 10 Armor; or Refresh your Mana Crystals.
 Summon four 1/1 Murlocs.
 Battlecry: Summon a  Jade Golem. Give it Taunt.
-Discover a card with\u00a0Overload. Overload: (1)
-Battlecry: Summon a 1/1\u00a0Cat.
-Deathrattle: Summon a number of 1/1 Rats equal \u00a0to this minion's Attack.
+Discover a card with Overload. Overload: (1)
+Battlecry: Summon a 1/1 Cat.
+Deathrattle: Summon a number of 1/1 Rats equal  to this minion's Attack.
 Battlecry: Discover a Hunter, Paladin, or Warrior card.
 Taunt Deathrattle: Shuffle 'The Storm Guardian' into your deck.
 Has +2 Attack while you have a weapon equipped.
-Battlecry: If you control a minion with 6 or more \u00a0Health, draw two cards.
+Battlecry: If you control a minion with 6 or more  Health, draw two cards.
 After this attacks a minion, it also hits the enemy hero.
 Give a random Beast in your hand +2/+2.
 Battlecry: Deal damage equal to this minion's Attack.
@@ -328,14 +328,14 @@ Battlecry: Give a random Beast in your hand +1/+1.
 Deathrattle: Deal damage equal to this minion's Attack to all enemy minions.
 Battlecry: If your weapon has at least 3 Attack, gain +4/+4.
 Taunt Battlecry: Summon a  Jade Golem.
-Stealth    Whenever this attacks and    kills a minion, summon 2 \u00a0Murlocs from your deck.
+Stealth    Whenever this attacks and    kills a minion, summon 2  Murlocs from your deck.
 Choose One - Summon a  Jade Golem; or Shuffle 3 copies of this card into your deck.
 Gain control of an enemy minion with 2 or less Attack until end of turn.
 Restore 12 Health to a friendly character.
-Battlecry: If you're holding a Dragon, Discover a card in \u00a0your opponent's deck.
-Whenever this minion is\u00a0healed, summon a 2/2\u00a0Crystal.
+Battlecry: If you're holding a Dragon, Discover a card in  your opponent's deck.
+Whenever this minion is healed, summon a 2/2 Crystal.
 Destroy a minion and one of your Mana Crystals.
-At the start of your turn, deal 2 damage to this\u00a0minion.
+At the start of your turn, deal 2 damage to this minion.
 Battlecry: Give your Demons +1/+1.
 Give a minion +3 Attack. If it's a Demon, also give it +3 Health.
 Give your minions +1/+1.
@@ -343,7 +343,7 @@ Gain an empty Mana Crystal for each friendly minion.
 Battlecry: If you control a minion with 5 or more Attack, gain +2/+2.
 Battlecry: Add a random Potion to your hand.
 Secret: After your opponent plays a minion, transform it into a 1/1 Sheep.
-Battlecry: If your deck has no duplicates, \u00a0create a custom spell.
+Battlecry: If your deck has no duplicates,  create a custom spell.
 Shoot three missiles at random enemies that deal 3 damage each.
 Battlecry: Give a friendly minion +3 Health.
 Gain 1 Mana Crystal this turn only.
@@ -355,18 +355,18 @@ At the end of your turn, give all minions in your hand +1/+1.
 Battlecry: Give all weapons in your hand and deck +1 Attack.
 Deathrattle: Deal 2 damage to the enemy hero.
 Battlecry: Deal 1 damage.
-Battlecry: Summon a 6/6\u00a0Ogre.
+Battlecry: Summon a 6/6 Ogre.
 Battlecry: Discover a Mage, Priest, or Warlock card.
 Battlecry: Give a random Murloc in your hand +1/+1.
 Battlecry: Give your weapon +1 Attack.
 Taunt Costs (2) less if your opponent has at least three minions.
 Taunt
-At the end of your turn, restore 1 Health to your\u00a0hero.
+At the end of your turn, restore 1 Health to your hero.
 Battlecry: Remove 1 Durability from your opponent's weapon.
 Battlecry: Enemy minions lose Stealth.
 Battlecry: Silence a minion.
 Whenever a friendly minion dies, gain +1 Attack.
-Battlecry: Restore 2\u00a0Health.
+Battlecry: Restore 2 Health.
 Battlecry: Choose a friendly minion. Shuffle a copy into your deck.
 Give all enemy minions -3 Attack this turn only.
 Deal 5 damage to all minions except Dragons.
@@ -380,20 +380,20 @@ Battlecry: If an enemy is Frozen, gain +2/+2.
 Battlecry: Choose a friendly minion. Swap it with a minion in your deck.
 Battlecry: Give a random minion in your hand +5/+5.
 Battlecry: If your deck has no duplicates, the next spell you cast this turn costs (0).
-Battlecry: If an enemy minion has Taunt, gain\u00a0Charge.
+Battlecry: If an enemy minion has Taunt, gain Charge.
 Deal 2 damage. Combo: Summon a  Jade Golem.
 Stealth Deathrattle: Summon a  Jade Golem.
 Combo: Return a friendly minion to your hand.
 Battlecry: Give a Stealthed minion +2/+2.
 Transform all enemy minions into random ones that cost (1) less.
-After this minion attacks a hero, transform it into a \u00a0random 6-Cost minion.
-Battlecry: The next Murloc you play this turn costs \u00a0Health instead of Mana.
+After this minion attacks a hero, transform it into a  random 6-Cost minion.
+Battlecry: The next Murloc you play this turn costs  Health instead of Mana.
 Deal 4 damage. Summon a  Jade Golem.
 Summon a  Jade Golem. Gain an empty Mana Crystal.
-Battlecry: Summon a  Jade\u00a0Golem.
+Battlecry: Summon a  Jade Golem.
 Deal 3 damage to all damaged minions.
 Battlecry: Summon a  Jade Golem. Overload: (1)
-Battlecry: If your deck has no duplicates, summon all \u00a0Demons from your hand.\u00a0
+Battlecry: If your deck has no duplicates, summon all  Demons from your hand. 
 Battlecry: Deal 3 damage to all other characters.
 Give a random Taunt minion in your hand +3/+3.
 Battlecry: Give all minions in your hand +1/+1.
@@ -401,7 +401,7 @@ At the end of your turn, give a random minion in your hand +2/+2.
 Battlecry: Give a random weapon in your hand +1/+1.
 Taunt Whenever this minion deals damage, gain that much Armor.
 Deathrattle: If this minion has 2 or more Attack, draw a card.
-Costs (2) less for each Secret you've played this\u00a0game.
+Costs (2) less for each Secret you've played this game.
 Stealth. Whenever this attacks, add a random card to your hand (from your opponent's class).
 Taunt Battlecry: Your opponent summons a random minion from their hand.
 Secret: When a friendly minion dies, return it to your hand.
@@ -418,28 +418,28 @@ Battlecry: Discover a Druid, Rogue, or Shaman card.
 Battlecry: Give a random minion in your hand +1/+1.
 Taunt
 Battlecry: Silence a minion with Deathrattle.
-After you summon a minion, deal 5 damage to\u00a0your hero.
+After you summon a minion, deal 5 damage to your hero.
 Battlecry and Deathrattle: Summon a  Jade Golem.
 Draw three 1-Cost minions from your deck.
 Discover a Taunt minion.
 Taunt
 Taunt
-Deal 2 damage to all enemies. Restore 2\u00a0Health to all friendly characters.
+Deal 2 damage to all enemies. Restore 2 Health to all friendly characters.
 Take control of an enemy minion.
 Change a minion's Attack to be equal to its Health.
 Deal 2 damage.
 Put a copy of a random card in your opponent's hand into your hand.
-Give a minion +2\u00a0Health. Draw a card.
-Give your hero +2\u00a0Attack this turn. Gain 2 Armor.
+Give a minion +2 Health. Draw a card.
+Give your hero +2 Attack this turn. Gain 2 Armor.
 Restore 8 Health.
 Deal 1 damage.
 Give a minion Taunt and +2/+2. (+2 Attack/+2 Health)
-Give your characters +2\u00a0Attack this turn.
+Give your characters +2 Attack this turn.
 Deal 4 damage to an enemy and 1 damage to all other enemies.
 Gain an empty Mana Crystal.
 Transform a minion into a 1/1 Sheep.
 Draw 2 cards.
-Deal 3 damage to a\u00a0character and Freeze it.
+Deal 3 damage to a character and Freeze it.
 Deal 1 damage to all enemy minions.
 Freeze all enemy minions.
 Summon two 0/2 minions with Taunt.
@@ -454,35 +454,35 @@ Give a minion Windfury.
 Restore a minion to full Health and give it Taunt.
 Battlecry: Deal 3 damage.
 Give a friendly character +3 Attack this turn.
-Give your minions +3\u00a0Attack this turn.
+Give your minions +3 Attack this turn.
 Draw a card. That card costs (3) less.
 Deal 4 damage to a minion.
   Stealth. At the end of your   turn, give another random  friendly minion +1 Health.
 Deal 2 damage. Restore 2 Health to your hero.
-Deal 3 damage to ALL\u00a0characters.
+Deal 3 damage to ALL characters.
 Choose an enemy minion. At the start of your turn, destroy it.
 Battlecry: Deal 1 damage to ALL other characters.
 Taunt
 Deal 2 damage to an undamaged minion.
 Give a minion +2 Attack. Combo: +4 Attack instead.
-Give your weapon +2\u00a0Attack.
-Deal 3 damage to the\u00a0enemy hero.
+Give your weapon +2 Attack.
+Deal 3 damage to the enemy hero.
 Destroy an enemy minion.
 Draw 4 cards.
 Change a minion's Health to 1.
-Give a minion +3\u00a0Attack.
+Give a minion +3 Attack.
 Battlecry: Restore 6 Health to your hero.
 Restore 6 Health.
 Give a minion +4/+4. (+4 Attack/+4 Health)
-Deal 2 damage to all\u00a0enemies.
+Deal 2 damage to all enemies.
 Deal 3 damage. Draw a card.
-Whenever your hero attacks, restore 2\u00a0Health to it.
+Whenever your hero attacks, restore 2 Health to it.
 Give a friendly minion Charge. It can't attack heroes this turn.
 Give a damaged minion +3/+3.
-Give your hero +4\u00a0Attack this turn.
+Give your hero +4 Attack this turn.
 Destroy a damaged enemy minion.
 Deal 2 damage to two random enemy minions.
-Battlecry: Restore 3\u00a0Health.
+Battlecry: Restore 3 Health.
 Taunt
 Your other minions have +1 Attack.
 Charge
@@ -494,7 +494,7 @@ Spell Damage +1
 Has Charge while you have a weapon equipped.
 Battlecry: Draw a card.
 Battlecry: Deal 2 damage.
-Battlecry: Summon a 2/2\u00a0Squire.
+Battlecry: Summon a 2/2 Squire.
 Spell Damage +1
 Stealth
 Taunt
@@ -504,11 +504,11 @@ Charge
 Taunt
 Battlecry: Deal 4 damage to HIMSELF.
 Taunt
-Battlecry: Give a minion +2\u00a0Attack this turn.
+Battlecry: Give a minion +2 Attack this turn.
 Battlecry: Deal 1 damage.
-Battlecry: Summon a 1/1\u00a0Boar.
+Battlecry: Summon a 1/1 Boar.
 Spell Damage +1
-Battlecry: Silence a\u00a0minion.
+Battlecry: Silence a minion.
 Charge
 Your weapon has +2 Attack while this is damaged.
 Your other minions have +1/+1.
@@ -516,16 +516,16 @@ Battlecry: Gain +1/+1 for each other friendly minion on the battlefield.
 Your minions cost (3) more.
 Taunt
 Destroy your weapon and deal its damage to all enemy minions.
-Destroy a minion with 3\u00a0or less Attack.
+Destroy a minion with 3 or less Attack.
 Whenever a minion is healed, draw a card.
 Double a minion's Health.
 Whenever you summon a Beast, draw a card.
 Battlecry: Restore 2 Health to all friendly characters.
 Battlecry: Give a friendly Beast +2/+2 and Taunt.
-Your other Beasts have +1\u00a0Attack.
+Your other Beasts have +1 Attack.
 Your Beasts have Charge.
 Deal 3 damage to two random enemy minions.
-Look at the top 3 cards of your deck. Draw one and discard the\u00a0others.
+Look at the top 3 cards of your deck. Draw one and discard the others.
 Deal 2 damage.
 Your hero is Immune while attacking.
 Deal 5 damage to the enemy hero.
@@ -534,11 +534,11 @@ Battlecry: Destroy an enemy minion with Taunt.
 At the end of your turn, give another random friendly minion +1 Health.
 Battlecry: Destroy a minion with 7 or more Attack.
 At the start of your turn, swap this minion with a    random one in your hand.
-Whenever this minion takes damage, draw a\u00a0card.
+Whenever this minion takes damage, draw a card.
 Divine Shield
 Has +5 Attack while damaged.
 Stealth
-Battlecry: Restore 2\u00a0Health.
+Battlecry: Restore 2 Health.
 Spell Damage +1 Deathrattle: Draw a card.
 Battlecry: Give your opponent 2 Bananas.
 Battlecry: Draw a card.
@@ -550,14 +550,14 @@ Windfury
 Divine Shield
 Battlecry: Summon a 2/1 Mechanical Dragonling.
 Stealth
-Deathrattle: Deal 2 damage to the enemy\u00a0hero.
+Deathrattle: Deal 2 damage to the enemy hero.
 Taunt Divine Shield
 Windfury
 Battlecry: Gain +1 Health for each card in your hand.
 Whenever you play a card, gain +1/+1.
 Can't attack.
-Battlecry: Give a minion +2\u00a0Attack this turn.
-Battlecry: Silence a\u00a0minion.
+Battlecry: Give a minion +2 Attack this turn.
+Battlecry: Silence a minion.
 Battlecry: Return a friendly minion from the battlefield to your hand.
 Battlecry: Each player draws 2 cards.
 Whenever you cast a spell, gain +2 Attack this turn.
@@ -579,7 +579,7 @@ Battlecry: Give adjacent minions +1/+1 and Taunt.
 Whenever you cast a spell, draw a card.
 Deathrattle: Draw a card.
 Taunt. Deathrattle: Deal 2 damage to ALL characters.
-Whenever a player casts a spell, put a copy into the other player\u2019s hand.
+Whenever a player casts a spell, put a copy into the other player's hand.
 At the start of your turn, deal 2 damage to a random enemy.
 Battlecry: Give your other Murlocs +2 Health.
 Costs (1) less for each other card in your hand.
@@ -588,26 +588,26 @@ Battlecry: Summon an AWESOME invention.
 Charge. Battlecry: Summon two 1/1 Whelps for your opponent.
 Deal 2 damage. Combo: Deal 4 damage instead.
 Force an enemy minion to deal its damage to the minions next to it.
-Give your minions Stealth until your next\u00a0turn.
-Deal 1 damage to all enemy minions. Draw\u00a0a card.
+Give your minions Stealth until your next turn.
+Deal 1 damage to all enemy minions. Draw a card.
 Secret: When an enemy attacks, summon a 2/1 Defender as the new target.
 Combo: Summon a 2/1 Defias Bandit.
-Secret: When your hero takes damage, deal\u00a0that much damage to the enemy hero.
+Secret: When your hero takes damage, deal that much damage to the enemy hero.
 Battlecry: Deal 1 damage. Combo: Deal 2 instead.
 Combo: Deal 2 damage.
 Secret: When a friendly minion dies, return it to life with 1 Health.
 Deal 2 damage to the enemy hero. Combo: Return this to your hand next turn.
-Return a friendly minion to your hand. It\u00a0costs (2) less.
+Return a friendly minion to your hand. It costs (2) less.
 The next spell you cast this turn costs (3) less.
 Choose One - Deal 3 damage to a minion; or 1 damage and draw a card.
 Choose One - Give a minion +4 Attack; or +4 Health and Taunt.
 Give your minions \Deathrattle: Summon a 2/2 Treant.\
 Choose One - Give your minions +1/+1; or Summon a 3/2 Panther.
-Destroy a minion. Your opponent draws 2\u00a0cards.
-Adjacent minions have +1\u00a0Attack.
-Choose One - Gain 2\u00a0Mana Crystals; or Draw 3 cards.
+Destroy a minion. Your opponent draws 2 cards.
+Adjacent minions have +1 Attack.
+Choose One - Gain 2 Mana Crystals; or Draw 3 cards.
 Choose One - Transform into a 4/4 with Charge; or a 4/6 with Taunt.
-Choose One - Deal\u00a02\u00a0damage; or Silence a minion.
+Choose One - Deal 2 damage; or Silence a minion.
 Gain 1 Mana Crystal this turn only.
 Poisonous
 Deal 5 damage. Draw a card.
@@ -619,22 +619,22 @@ Add a random card to your hand (from your opponent's class).
 Deal 3 damage. Overload: (1)
 Deal 5 damage. Overload: (2)
 Windfury. Overload: (2)
-Give your Totems +2\u00a0Health.
+Give your Totems +2 Health.
 Silence a minion, then deal 1 damage to it.
 Transform a minion into a 0/1 Frog with Taunt.
 Overload: (1)
 Summon two 2/3 Spirit Wolves with Taunt. Overload: (2)
 At the end of your turn, deal 2 damage to ALL other characters.
 Taunt Overload: (3)
-Deal 2 damage to 2\u00a0random enemy minions. Overload: (2)
-Whenever you play a card\u00a0with Overload, gain\u00a0+1/+1.
-Deal 2-3 damage to all\u00a0enemy minions. Overload: (2)
-If you control a Secret at\u00a0the end of your turn, gain +2/+2.
+Deal 2 damage to 2 random enemy minions. Overload: (2)
+Whenever you play a card with Overload, gain +1/+1.
+Deal 2-3 damage to all enemy minions. Overload: (2)
+If you control a Secret at the end of your turn, gain +2/+2.
 Freeze a minion and the minions next to it, and deal 1 damage to them.
 Deal 3 damage randomly split among all enemies.
 Deal 1 damage. Draw a card.
 Deal 10 damage.
-Battlecry: Freeze a\u00a0character.
+Battlecry: Freeze a character.
 Spell Damage +1 Battlecry: Draw a card.
 Secret: When your opponent casts a spell, Counter it.
 Secret: When your hero is attacked, gain 8 Armor.
@@ -647,7 +647,7 @@ Destroy a friendly minion and deal its Attack damage to all enemy minions.
 Battlecry: Destroy both adjacent minions and gain  their Attack and Health.
 Battlecry: Discard a random card.
 Deal 4 damage. Discard a random card.
-Destroy a minion. Restore 3 Health to\u00a0your hero.
+Destroy a minion. Restore 3 Health to your hero.
 Charge. Battlecry: Discard two random cards.
 Destroy all minions.
 Battlecry: Deal 5 damage to your hero.
@@ -655,7 +655,7 @@ Your minions cost (2) less, but not less than (1).
 Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly.
 Draw 2 Demons from your deck.
 Battlecry: Deal 3 damage to your hero.
-Deal 2 damage to\u00a0a character. If that kills it, summon a random Demon.
+Deal 2 damage to a character. If that kills it, summon a random Demon.
 Battlecry: Destroy your hero and replace it with Lord Jaraxxus.
 Silence a minion.
 Gain control of an enemy minion with 3 or less Attack until end of turn.
@@ -665,27 +665,27 @@ At the start of your turn, restore 3 Health to a damaged friendly character.
 Put a copy of a random minion from your opponent's deck into the battlefield.
 Draw cards until you have as many in hand as your opponent.
 Double the damage and healing of your spells and Hero Power.
-Restore 8 Health. Draw\u00a03 cards.
+Restore 8 Health. Draw 3 cards.
 Double a minion's Attack.
 Change a minion's Attack to 1.
 Battlecry: Give a friendly minion Divine Shield.
 Choose a minion. Whenever it attacks, draw a card.
-Draw a card and deal\u00a0damage equal to\u00a0its Cost.
-After you summon a minion, give it +1/+1 and this loses 1\u00a0Durability.
+Draw a card and deal damage equal to its Cost.
+After you summon a minion, give it +1/+1 and this loses 1 Durability.
 Give a minion Divine Shield.
 Secret: After your opponent plays a minion, reduce its Health to 1.
-Battlecry: Change an\u00a0enemy minion's Attack to 1.
-Divine Shield, Taunt Deathrattle: Equip a 5/3\u00a0Ashbringer.
+Battlecry: Change an enemy minion's Attack to 1.
+Divine Shield, Taunt Deathrattle: Equip a 5/3 Ashbringer.
 Deal 8 damage randomly split among all enemies.
 Taunt Has +3 Attack while damaged.
 Deal 2 damage to a minion. If it survives, draw a card.
 Draw a card for each damaged friendly character.
 Has +3 Attack while damaged.
 Taunt
-Battlecry: Equip a 2/2\u00a0weapon.
-Whenever this minion takes damage, gain +3\u00a0Attack.
-Deal 1 damage to ALL\u00a0minions.
-Whenever a friendly minion\u00a0takes damage, gain 1 Armor.
+Battlecry: Equip a 2/2 weapon.
+Whenever this minion takes damage, gain +3 Attack.
+Deal 1 damage to ALL minions.
+Whenever a friendly minion takes damage, gain 1 Armor.
 Taunt
 Destroy all minions except one. (chosen randomly)
 Deal 4 damage. If you have 12 or less Health, deal 6 instead.
@@ -694,7 +694,7 @@ Deal 1 damage to a minion for each Armor you have.
 Attacking a minion costs 1 Attack instead of 1 Durability.
 Has +1 Attack and Windfury while damaged.
 Charge Has +6 Attack while damaged.
-Battlecry: Summon a 1/1\u00a0Murloc Scout.
+Battlecry: Summon a 1/1 Murloc Scout.
 Your other Murlocs have +2 Attack.
 Your other Murlocs have +1 Attack.
 Whenever you summon a Murloc, gain +1 Attack.
@@ -713,17 +713,17 @@ Secret: When one of your minions is attacked, summon three 1/1 Snakes.
 Deathrattle: Summon a 2/1 Damaged Golem.
 At the start of your turn, you have a 50% chance to draw an extra card.
 Battlecry: Destroy your opponent's weapon and draw cards equal to its Durability.
-Whenever you cast a spell, add a 'Fireball' spell to\u00a0your hand.
-Players only have 15 seconds to take their\u00a0turns.
+Whenever you cast a spell, add a 'Fireball' spell to your hand.
+Players only have 15 seconds to take their turns.
 Battlecry: Set a hero's remaining Health to 15.
 Battlecry: Summon 1/1 Whelps until your side of the battlefield is full.
 Spell Damage +5
 Battlecry: Choose a minion and become a copy of it.
-Adjacent minions have +2\u00a0Attack.
+Adjacent minions have +2 Attack.
 Windfury, Overload: (2)
-Give your hero +4\u00a0Attack this turn. Gain 4 Armor.
+Give your hero +4 Attack this turn. Gain 4 Armor.
 Summon three 2/2 Treants.
-At the end of your turn, add\u00a0a Dream Card to\u00a0your hand.
+At the end of your turn, add a Dream Card to your hand.
 Choose One - Give your other minions +2/+2; or Summon two 2/2 Treants with Taunt.
 At the end of your turn, draw a card.
 Deathrattle: Summon a 3/3 Finkle Einhorn for your opponent.
@@ -731,7 +731,7 @@ Deal damage equal to your hero's Attack to a minion.
 Return an enemy minion to your opponent's hand.
 Spell Damage +1
 Battlecry: Restore 4 Health to your hero.
-Battlecry: Give adjacent\u00a0minions Spell\u00a0Damage +1.
+Battlecry: Give adjacent minions Spell Damage +1.
 Costs (1) less for each other minion on the battlefield.
 Battlecry: Give a friendly minion Windfury.
 Battlecry: All minions lose Divine Shield. Gain +3/+3 for each Shield lost.
@@ -739,25 +739,25 @@ Your cards and powers that restore Health now deal damage instead.
 Battlecry: Deal 3 damage to the enemy hero.
 Secret: When a minion attacks your hero, destroy it.
 After a friendly minion dies, draw a card.
-Deal 2 damage to a minion. If it\u2019s a friendly Demon, give it +2/+2 instead.
+Deal 2 damage to a minion. If it's a friendly Demon, give it +2/+2 instead.
 At the end of your turn, deal 1 damage to this minion  and summon a 1/1 Imp.
-Battlecry: Deal 1 damage to a minion and give it +2\u00a0Attack.
+Battlecry: Deal 1 damage to a minion and give it +2 Attack.
 Whenever a minion takes damage, gain +1 Attack.
 Gain 5 Armor. Draw a card.
-Deal 1 damage to a minion and give it +2\u00a0Attack.
+Deal 1 damage to a minion and give it +2 Attack.
 Your spells cost (1) less.
 Secret: After your opponent plays a minion, deal 4 damage to it.
 Secret: When your hero is attacked, deal 2 damage to all enemies.
 Secret: When an enemy minion attacks, return it to its owner's hand. It costs (2) more.
 Battlecry: The next Secret you play this turn costs (0).
 Combo: Gain +2/+2 for each other card you've played this turn.
-Whenever you play a card, summon a 2/1 Flame of\u00a0Azzinoth.
+Whenever you play a card, summon a 2/1 Flame of Azzinoth.
 ALL minions cost (1) more.
 Destroy a random enemy minion.
 Change the Health of ALL minions to 1.
 Costs (1) less for each damage your hero has taken.
-Restore 4 Health to ALL\u00a0minions.
-Destroy a minion with 5\u00a0or more Attack.
+Restore 4 Health to ALL minions.
+Destroy a minion with 5 or more Attack.
 Battlecry: Give a friendly minion +3 Health.
 Deal 5 damage. Restore 5 Health to your hero.
 Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.
@@ -799,11 +799,11 @@ Deathrattle: Restore 8 Health to your hero.
 Your other Elementals have +2 Attack.
 Taunt
 Spell Damage +2
-Battlecry: Destroy all other\u00a0minions with 2\u00a0or\u00a0less\u00a0Attack.
+Battlecry: Destroy all other minions with 2 or less Attack.
 Battlecry: Randomly toss 3 hats to other minions. Each hat gives +1/+1.
-Battlecry: Double the Attack and Health of all minions in\u00a0your hand.
+Battlecry: Double the Attack and Health of all minions in your hand.
 Taunt Battlecry: If your deck has only odd-Cost cards, gain +2/+2.
-Deal 4 damage to a minion. If that kills it, add a copy of it to your\u00a0hand.
+Deal 4 damage to a minion. If that kills it, add a copy of it to your hand.
 Each turn this is in your hand, transform it into a card your opponent is holding.
 Lifesteal Rush
 Echo Give a minion +1/+2.
@@ -812,9 +812,9 @@ Can't attack. Whenever this minion takes damage, deal 3 damage to a random enemy
 Rush Has +3 Attack while damaged.
 Can't attack while damaged.
 Choose One - Transform into a 4/2 with Rush; or a 2/4 with Taunt.
-Whenever a friendly minion is healed, summon a 3/3\u00a0Whelp.
+Whenever a friendly minion is healed, summon a 3/3 Whelp.
 Summon four 1/1 Imps.
-Battlecry: Replace your hand with a copy of your\u00a0opponent's.
+Battlecry: Replace your hand with a copy of your opponent's.
 Stealth Each turn this is in your hand, swap its Attack and Health.
 Lifesteal Each turn this is in your hand, swap its Attack and Health.
 Divine Shield, Rush Each turn this is in your hand, swap its Attack and Health.
@@ -823,10 +823,10 @@ Echo Taunt
 Battlecry: Add two random 1-Cost minions to your hand.
 Battlecry: Add a random 2-Cost minion to each player's hand.
 Battlecry: Deal 3 damage to all minions.
-Echo  Deal 2 damage to a\u00a0minion.
-Taunt Battlecry: Gain +1 Health \u00a0for each card in your hand.\u00a0
+Echo  Deal 2 damage to a minion.
+Taunt Battlecry: Gain +1 Health  for each card in your hand. 
 Battlecry: If your hero took damage this turn, summon two 1/1 Bats.
-Whenever you play an Echo\u00a0card, gain +1/+1.
+Whenever you play an Echo card, gain +1/+1.
 Deathrattle: Give your minions +1 Attack.
 Rush Battlecry: Destroy a friendly minion and gain its Attack and Health.
 Deal 4 damage to a minion. If a minion died this turn, this costs (1).
@@ -834,7 +834,7 @@ Battlecry: If you're holding a Dragon, gain +1 Attack and Taunt.
 Lifesteal Taunt
 Rush Each turn this is in your hand, swap its Attack and Health.
 Spell Damage +1 Each turn this is in your hand, swap its Attack and Health.
-Battlecry: If your deck has only even-Cost cards, deal\u00a02 damage.
+Battlecry: If your deck has only even-Cost cards, deal 2 damage.
 Taunt Battlecry: Add a random Shaman spell to your hand.
 After your hero attacks, give this minion +1/+1.
 Reveal a weapon from your deck. Deal its Attack to all minions.
@@ -866,7 +866,7 @@ Echo Rush
 Stealth Deathrattle: Give a random   friendly minion +2 Health.
 Battlecry: Choose a minion. Deathrattle: Destroy the chosen minion.
 Deathrattle: Summon two 2/2 Splitting Saplings.
-Minions in your hand have\u00a0Echo.
+Minions in your hand have Echo.
 Whenever you draw a minion, summon a 1/1 copy of it.
 Battlecry: Deal 3 damage to the enemy hero. Restore 3 Health to your hero.
 Taunt Battlecry: Lose 1 Health for each card in your opponent's hand.
@@ -875,38 +875,38 @@ Battlecry and Deathrattle: Put a Secret from your deck into the battlefield.
 Battlecry: If you're holding a Dragon, gain Taunt and Divine Shield.
 Draw a card. Gain 1 Armor for each card in your hand.
 Whenever you draw a card, gain +1/+1.
-Battlecry: If you played an\u00a0Elemental last turn, draw a card.
-Double the damage and\u00a0healing of your Hero\u00a0Power.
+Battlecry: If you played an Elemental last turn, draw a card.
+Double the damage and healing of your Hero Power.
 Battlecry: Destroy all enemy Secrets.
 Your other minions have Rush.
 Deathrattle: Give +2/+1 to a random friendly Rush minion.
-Echo Deal 1 damage to all\u00a0minions.
+Echo Deal 1 damage to all minions.
 After a friendly minion attacks, gain +1 Attack.
 Battlecry: Choose a friendly minion. Add a 10/10 copy to your hand that costs (10).
 Restore 6 Health to all friendly characters.
 Add three 2/2 Treants to your hand.
 Whenever you cast a spell, summon a random 2-Cost minion.
-Echo Give all enemy minions -2\u00a0Attack until your next\u00a0turn.
+Echo Give all enemy minions -2 Attack until your next turn.
 Taunt Deathrattle: Restore 4 Health to your hero.
 Lifesteal Whenever you play a card from another class, gain +1 Durability.
 Echo Battlecry: Add a random Legendary minion to your hand.
 Echo
 Echo
 This is an Elemental, Mech, Demon, Murloc, Dragon, Beast, Pirate and Totem.
-Rush Battlecry: Summon two 2/1\u00a0Mucklings for your opponent.
+Rush Battlecry: Summon two 2/1 Mucklings for your opponent.
 Battlecry: Summon a 2/1 Poisonous Drakeslayer for your opponent.
 While this minion has 3 or more Attack, it has Taunt and Lifesteal.
 Deal 3 damage to a minion. If that kills it, add a Coin to your hand.
-Whenever you draw a minion, add a copy of it to\u00a0your hand.
+Whenever you draw a minion, add a copy of it to your hand.
 Start of Game: If your deck has only even- Cost cards, your starting Hero Power costs (1).
-At the start of your turn, deal 1 damage to your\u00a0hero.
-Battlecry: Transform all 1-Cost cards in your deck \u00a0into Legendary minions.
+At the start of your turn, deal 1 damage to your hero.
+Battlecry: Transform all 1-Cost cards in your deck  into Legendary minions.
 Echo Add a random card to your hand (from your opponent's class).
 On each player's turn, the first card played costs (0).
 Freeze a minion. If it's already Frozen, destroy it.
-Rush Battlecry: Gain +3\u00a0Attack this turn.
+Rush Battlecry: Gain +3 Attack this turn.
 Deathrattle: Summon a Deathrattle minion from your hand.
-Whenever you cast a spell, draw a minion from your\u00a0deck.
+Whenever you cast a spell, draw a minion from your deck.
 Taunt
 Choose a friendly minion. Summon a copy of it with 1 Health remaining.
 Battlecry: Choose a friendly minion. Shuffle a copy into your deck.
@@ -923,7 +923,7 @@ Echo Battlecry: Restore 2 Health.
 Discover a Battlecry minion.
 Battlecry: If your deck has only odd-Cost cards, double the Health of your other minions.
 Spell Damage +1  Battlecry: If your deck has only odd-Cost cards, draw a card.
-Battlecry: Cast 'Inner Fire' \u00a0on every minion in your deck\u00a0 (set Attack equal to Health).
+Battlecry: Cast 'Inner Fire'  on every minion in your deck  (set Attack equal to Health).
 Combo: Give your weapon +1 Attack.
 Secret: After your opponent plays three cards in a turn, draw 2 cards.
 Battlecry: If a minion died this turn, gain Poisonous.
@@ -937,7 +937,7 @@ When you draw this, deal 2 damage to all characters.
 Deal damage to each minion equal to its Attack.
 Battlecry: Deal 3 damage to each hero.
 Give a minion +2/+4 and Spell Damage +1.
-Battlecry: Give a minion -2\u00a0Attack this turn.
+Battlecry: Give a minion -2 Attack this turn.
 Restore 3 Health. If the target is still damaged, summon a Lightwarden.
 Has +2 Attack while you have a Mech.
 Battlecry: Swap Health with another minion.
@@ -967,7 +967,7 @@ Windfury
 Deal 3-6 damage. Overload: (1)
 At the end of your turn, restore 4 Health to your hero.
 Whenever another friendly Murloc dies, draw a card. Overload: (1)
-Choose One - Summon 5 Wisps; or Give\u00a0a minion +5/+5 and Taunt.
+Choose One - Summon 5 Wisps; or Give a minion +5/+5 and Taunt.
 Battlecry: Add 4 random Murlocs to your hand. Overload: (3)
 Battlecry: Give a random friendly minion +1 Attack.
 Deal 2-4 damage to a minion. Summon a 1/1 Imp for each damage dealt.
@@ -1065,12 +1065,12 @@ Deal 2 damage to a minion. If it survives, give it Poisonous.
 Summon two 1/2 Poisonous Spiders.
 Choose One - Transform into a 1/2 with Poisonous; or a 1/5 with Taunt.
 Trigger a friendly minion's Deathrattle.
-Summon a 1/5 Scarab with Taunt. If your\u00a0opponent has more minions, cast this again.
+Summon a 1/5 Scarab with Taunt. If your opponent has more minions, cast this again.
 Lifesteal Deal 2 damage to a minion.
 Give a minion +3/+3 and Freeze it.
-Battlecry: Freeze an\u00a0enemy.
+Battlecry: Freeze an enemy.
 Deathrattle: If it's your opponent's turn, gain 6 Armor.
-Battlecry and Deathrattle: Deal 1 damage to all\u00a0minions.
+Battlecry and Deathrattle: Deal 1 damage to all minions.
 Deathrattle: Add two 1/1 Skeletons to your hand.
 Deathrattle: If it's your opponent's turn, summon a 2/2 Ghoul.
 Your Hero Power also Freezes the target.
@@ -1078,9 +1078,9 @@ Battlecry: Add a 'Mirror Image' spell to your hand.
 After a friendly minion loses Divine Shield, gain +1 Attack.
 At the end of your turn, deal 1 damage to all enemy minions.
 Freeze a minion and deal 3 damage to adjacent ones.
-Give your hero +3\u00a0Attack this turn. Gain 3 Armor.
+Give your hero +3 Attack this turn. Gain 3 Armor.
 Taunt Overload: (3)
-Secret: After your opponent plays a minion, add two copies of it to\u00a0your hand.
+Secret: After your opponent plays a minion, add two copies of it to your hand.
 Your opponent's spells cost (1) more.
 Deal 5 damage. Draw 5 cards. Gain 5 Armor. Summon a 5/5 Ghoul.
 Put one of each Secret from your deck into the battlefield.
@@ -1095,25 +1095,25 @@ Battlecry: Discard all weapons from your hand and gain their stats.
 Whenever your weapon is destroyed, gain +1/+1.
 Battlecry: Add a random Deathrattle minion that died this game to your hand.
 Deathrattle: Deal 5 damage to your minions.
-Secret: When one of your minions is attacked, summon a 2/3\u00a0Poisonous Cobra.
+Secret: When one of your minions is attacked, summon a 2/3 Poisonous Cobra.
 Draw a card. If it has Deathrattle, cast this again.
 After you play a Secret, put a random Hunter Secret into the battlefield.
-Choose a friendly minion and give it to\u00a0your opponent.
+Choose a friendly minion and give it to your opponent.
 Copy 3 cards in your opponent's deck and add them to your hand.
 At the end of your turn, give another random friendly minion +1/+1.
 Lifesteal
 Discover a friendly minion that died this game. Summon it.
 Taunt, Lifesteal Deathrattle: Destroy a  random enemy minion.
-Battlecry: Shuffle a copy of\u00a0your opponent's deck into your deck.
-Whenever this minion takes damage, discard a\u00a0random card.
+Battlecry: Shuffle a copy of your opponent's deck into your deck.
+Whenever this minion takes damage, discard a random card.
 Lifesteal
 Give your weapon Lifesteal this turn.
-Throw your weapon at a minion. It deals its damage, then returns to\u00a0your hand.
-Summon a 5/5 copy of\u00a0a random minion in\u00a0your deck.
-Destroy any Frozen minion damaged by\u00a0this.
+Throw your weapon at a minion. It deals its damage, then returns to your hand.
+Summon a 5/5 copy of a random minion in your deck.
+Destroy any Frozen minion damaged by this.
 After you play a minion, deal 1 damage to it.
 During your turn, your weapon doesn't lose Durability.
-Your Deathrattle cards cost\u00a0(2) less.
+Your Deathrattle cards cost (2) less.
 Give a minion \Deathrattle: Return this to life with 1 Health.\
 Whenever your hero is healed, deal that much damage to a random enemy minion.
 Battlecry: If an enemy is Frozen, draw a card.
@@ -1129,16 +1129,16 @@ Can't be targeted by spells or Hero Powers.
 Battlecry: Gain +1/+1 for each damaged minion.
 Taunt Battlecry: Summon another Saronite Chain Gang.
 Battlecry: Give a friendly minion Immune this turn.
-Whenever this minion attacks, deal 2 damage to\u00a0the enemy hero.
+Whenever this minion attacks, deal 2 damage to the enemy hero.
 Choose a friendly minion. Destroy it and a random enemy minion.
 Battlecry: Transform your minions into random ones that cost (2) more.
 Costs (0) if your hero was healed this turn.
 Battlecry: Destroy all 1-Cost spells in both hands and decks.
-Deathrattle: Add a random Deathrattle minion to your\u00a0hand.
+Deathrattle: Add a random Deathrattle minion to your hand.
 Battlecry: Give a friendly minion +4/+4 and Taunt.
 Spells cost (2) more.
-Battlecry: Draw a Divine\u00a0Shield minion from your deck.
-Lifesteal Deal 1 damage to\u00a0all\u00a0minions.
+Battlecry: Draw a Divine Shield minion from your deck.
+Lifesteal Deal 1 damage to all minions.
 Battlecry: Give your Taunt minions +2/+2.
 Taunt After you summon a minion,  gain +1 Health.
 Combo: Give a friendly minion Poisonous.
@@ -1151,11 +1151,11 @@ Deathrattle: Summon a random friendly Beast that died this game.
 Battlecry: Gain Stealth until your next turn.
 Battlecry: Deal 2 damage to all enemy minions.
 Battlecry: Equip a 5/3 Lifesteal weapon.
-Battlecry: Destroy all minions with 5 or more\u00a0Attack.
-Battlecry: Summon all friendly Demons that\u00a0died\u00a0this\u00a0game.
+Battlecry: Destroy all minions with 5 or more Attack.
+Battlecry: Summon all friendly Demons that died this game.
 Choose One - Summon 2 Poisonous Spiders; or 2 Scarabs with Taunt.
 Battlecry: Summon a 3/6 Water Elemental. Your Elementals have Lifesteal this game.
-Battlecry: Equip a 4/3\u00a0Shadowmourne that also damages adjacent minions.
+Battlecry: Equip a 4/3 Shadowmourne that also damages adjacent minions.
 Deathrattle: Summon your Taunt minions that died this game.
 Deal 2 damage to a random enemy minion and Freeze it.
 Gain 10 Armor. Reduce the Cost of minions in your opponent's hand by (2).
@@ -1163,21 +1163,21 @@ Battlecry: Summon two 0/1 Frozen Champions.
 Lifesteal Has +1 Attack for each card you've discarded this game.
 Choose an enemy minion. At the start of your turn, gain control of it.
 Battlecry: Your hero is Immune this turn.
-Battlecry: If your deck has\u00a0no 2-Cost cards, give\u00a0all minions in your deck +1/+1.
-Battlecry: If your deck has\u00a0no 3-Cost cards, transform into a 3/3 copy of a minion.
+Battlecry: If your deck has no 2-Cost cards, give all minions in your deck +1/+1.
+Battlecry: If your deck has no 3-Cost cards, transform into a 3/3 copy of a minion.
 Battlecry: If your deck has no 4-Cost cards, gain Lifesteal and Taunt.
-Deathrattle: Add a random Death Knight card to your\u00a0hand.
+Deathrattle: Add a random Death Knight card to your hand.
 Battlecry: Freeze your other minions.
 Spell Damage +2
-Divine Shield After a friendly minion loses\u00a0Divine Shield, gain +2 Attack.
+Divine Shield After a friendly minion loses Divine Shield, gain +2 Attack.
 Whenever one of your other minions dies, summon a 2/2 Ghoul.
 Your end of turn effects trigger twice.
 Hero Powers are disabled.
-Battlecry: Destroy a friendly minion and gain\u00a0+2/+2.
-Battlecry: Gain +1/+1 for\u00a0each minion that died\u00a0this turn.
+Battlecry: Destroy a friendly minion and gain +2/+2.
+Battlecry: Gain +1/+1 for each minion that died this turn.
 Lifesteal
 Combo: Deal damage equal to the number of other cards you've played this turn.
-Whenever you play a card, remove the top 3 cards of\u00a0your deck.
+Whenever you play a card, remove the top 3 cards of your deck.
 Battlecry: Gain Taunt if your deck has a Taunt minion. Repeat for Divine Shield, Lifesteal, Windfury.
 Divine Shield Spell Damage +1
 Secret: After your opponent casts a spell, summon a 4/2 Panther with Stealth.
@@ -1187,7 +1187,7 @@ Battlecry: Add a random Mage spell to your hand.
 Battlecry: If you're holding a Dragon, summon two 1/1 Whelps.
 Taunt
 Silence a friendly minion. Draw a card.
-Whenever you cast a spell, summon a random basic\u00a0Totem.
+Whenever you cast a spell, summon a random basic Totem.
 Summon a 1/1 Candle, 2/2 Broom, and 3/3 Teapot.
 For each enemy minion, summon a 1/1 Pawn with Taunt.
 Unlimited attacks each turn. Can't attack heroes.
@@ -1203,10 +1203,10 @@ Battlecry: Discover a spell. Restore Health to your hero equal to its Cost.
 Taunt Battlecry: Draw a Beast, Dragon, and Murloc from your deck.
 Battlecry: If you're holding a Dragon, Discover a Dragon.
 Has +2 Attack while you have Spell Damage.
-Battlecry: Choose a friendly Beast. Summon a\u00a0copy of it.
+Battlecry: Choose a friendly Beast. Summon a copy of it.
 Battlecry: Add a random card to your hand (from your opponent's class).
 Battlecry: If you're holding any cards from another class, reduce their Cost by (2).
-Deal\u00a01\u00a0damage to\u00a0all\u00a0enemy\u00a0minions. Summon\u00a0a\u00a0random 1-Cost minion.
+Deal 1 damage to all enemy minions. Summon a random 1-Cost minion.
 Restore 6 Health. Summon a random 6-Cost minion.
 Deal 5 damage. Summon a random 5-Cost minion.
 Give a minion +2/+2. Summon a random 2-Cost minion.
@@ -1235,7 +1235,7 @@ Deathrattle: Add a Coin to your hand.
 After you play a Battlecry minion, deal 2 damage to a random enemy.
 Battlecry: Set a minion's Attack and Health to 3.
 Whenever you Overload, gain +1 Attack per locked Mana Crystal.
-Battlecry: Choose a friendly minion. Gain a copy of its\u00a0Deathrattle.
+Battlecry: Choose a friendly minion. Gain a copy of its Deathrattle.
 Battlecry: Put a 1-Cost minion from each deck into the battlefield.
 Secret: After an opposing Hero Power is used, deal 5 damage to a random enemy.
 Taunt
@@ -1260,7 +1260,7 @@ Deathrattle: Summon three 2/2 Runts.
 Battlecry: Discover a powerful Artifact.
 Choose an enemy minion. Shuffle it into your deck.
 Give a minion +1/+1 and \Deathrattle: Add an Explorer's Hat to your hand.\
-Can\u2019t attack unless it\u2019s the only minion on the battlefield.
+Can't attack unless it's the only minion on the battlefield.
 Battlecry: Shuffle an 'Ancient Curse' into your deck that deals 7 damage to you when drawn.
 Deal 3 damage to all minions. Shuffle this card into your opponent's deck.
 Give your minions +2/+2. Costs (1) less for each Murloc you control.
@@ -1270,9 +1270,9 @@ Double all damage dealt to your hero.
 Your hero can only take 1 damage at a time.
 Shuffle all minions into your opponent's deck.
 Taunt Battlecry: Deal 2 damage to your hero.
-Battlecry: Draw a card. Deal 2 damage to your\u00a0hero.
+Battlecry: Draw a card. Deal 2 damage to your hero.
 Destroy a friendly minion. Restore 4 Health to your hero.
-Battlecry: If you have 15 or\u00a0less Health, gain +3/+3\u00a0and Taunt.
+Battlecry: If you have 15 or less Health, gain +3/+3 and Taunt.
 Battlecry: Shuffle 3 Ambushes into your deck. When drawn, summon a 4/4 Spider.
 Battlecry: Draw a weapon from your deck.
 At the start of your turn, attack a random enemy.
@@ -1282,21 +1282,21 @@ Give a minion +3 Health. Gain 3 Armor.
 Taunt Can only attack if you have 3 or more Armor.
 Deal 2 damage to a minion. @(Gain 3 Armor to upgrade.)
 Choose Twice - Draw a card; Give your minions  +1 Attack; Gain 6 Armor.
-Deathrattle: Shuffle a  copy of this minion into\u00a0your\u00a0deck.
+Deathrattle: Shuffle a  copy of this minion into your deck.
 Deal 8 damage to a minion. Overload: (3)
 Battlecry: Choose a basic Totem. Summon it.
 Summon 1 copy of a friendly minion. @(Overload 3 Mana Crystals to upgrade.)
-Battlecry: Summon a 2/3\u00a0Giant Rat.
+Battlecry: Summon a 2/3 Giant Rat.
 Deal 3 damage to a minion. Summon a 3/3 Wolf.
 Also damages the minions next to whomever this attacks.
 Secret: When an enemy attacks your hero, summon a 3-Cost minion as the new target.
-Summon two 3/3\u00a0Wolves. (Play a Secret to upgrade.)
-Battlecry: If your deck has no minions, fill your\u00a0hand with Hunter\u00a0spells.
-Give a minion Divine\u00a0Shield. Draw a card.
+Summon two 3/3 Wolves. (Play a Secret to upgrade.)
+Battlecry: If your deck has no minions, fill your hand with Hunter spells.
+Give a minion Divine Shield. Draw a card.
 Summon a 2/2 Spirit with Taunt. @(Restore 3 Health to upgrade.)
 Recruit 3 minions that  cost (2) or less.
 Secret: After your opponent plays a minion, deal 6 damage to it and any excess to their hero.
-Add 1 random Mage spell to your hand. @(Play 2 Elementals to\u00a0upgrade.)
+Add 1 random Mage spell to your hand. @(Play 2 Elementals to upgrade.)
 Each turn this is in your hand, transform it into a random Mage spell.
 Shuffle 5 Scrolls into your deck. When drawn, cast a random spell.
 At the end of your turn, draw 3 cards.
@@ -1307,55 +1307,55 @@ Battlecry: Destroy your opponent's weapon.
 Battlecry: If you control no other minions, gain Taunt and Divine Shield.
 Divine Shield  Poisonous
 Costs (0) if you've cast a spell that costs (5) or more this turn.
-At the end of your turn, summon a 1/2 Ooze with\u00a0Taunt.
+At the end of your turn, summon a 1/2 Ooze with Taunt.
 Battlecry: Deal 6 damage to a Dragon.
 At the start of your turn, set this minion's Attack to 4.
 Stealth Your other minions have +1 Attack.
 Taunt
 Deathrattle: Give your opponent two Coins.
-Costs (1) less whenever a minion dies while this is\u00a0in\u00a0your hand.
-Battlecry: Transform a friendly minion into a 6/6\u00a0Elemental.
+Costs (1) less whenever a minion dies while this is in your hand.
+Battlecry: Transform a friendly minion into a 6/6 Elemental.
 Battlecry: Give your other minions +1 Health.
 Deathrattle: Summon seven 1/1 Grubs.
-Battlecry: Summon a random 1-Cost minion for\u00a0your opponent.
+Battlecry: Summon a random 1-Cost minion for your opponent.
 Battlecry: Destroy a friendly minion. Deathrattle: Summon 2 copies of it.
 After a friendly minion dies, add a 1/1 copy of it to your hand. It costs (1).
 Battlecry: Give adjacent minions +2/+2.
 Battlecry: Reveal a spell in each deck. If yours costs more, draw it.
-Reveal a spell from your deck. Deal damage equal to its Cost to all\u00a0minions.
+Reveal a spell from your deck. Deal damage equal to its Cost to all minions.
 Deathrattle: Recruit an 8-Cost minion.
 Summon 1/1 copies of 2 friendly Deathrattle minions that died this game.
 Only you can target this with spells and Hero Powers.
 Summon one 5/5 Mithril Golem. (Equip a weapon to upgrade.)
 Secret: When a friendly minion dies, return it to your hand. It costs (2) less.
 After you cast 3 spells in a turn, summon a 5/5 Dragon.
-Secret: When a minion attacks your hero, instead it attacks one of\u00a0its neighbors.
+Secret: When a minion attacks your hero, instead it attacks one of its neighbors.
 Combo: Draw 2 minions from your deck.
 Secret: After your hero takes damage, become Immune this turn.
 Battlecry: Cast each spell you cast on your minions  this game on this one.
 Summon an Animal Companion, or 2 if your deck has no minions.
-After this minion attacks a hero, add a copy of it to\u00a0your hand.
+After this minion attacks a hero, add a copy of it to your hand.
 Your hero is Immune while attacking.
-Whenever you cast a spell, gain Armor equal to its\u00a0Cost.
+Whenever you cast a spell, gain Armor equal to its Cost.
 Deathrattle: Summon a 5/1 Revenant.
-Give a minion +2/+2. Gains a bonus effect in\u00a0your hand.
-Gain 5 Armor. Gains a bonus effect in\u00a0your hand.
-Gains a bonus effect in\u00a0your hand.
-Battlecry: Restore 4\u00a0Health.
-Deathrattle: Recruit a\u00a0Demon.
+Give a minion +2/+2. Gains a bonus effect in your hand.
+Gain 5 Armor. Gains a bonus effect in your hand.
+Gains a bonus effect in your hand.
+Battlecry: Restore 4 Health.
+Deathrattle: Recruit a Demon.
 Gain 6 Armor. Recruit a minion that costs (4) or less.
 Divine Shield Costs (1) less for each Silver Hand Recruit you control.
-Taunt Deathrattle: Recruit 2\u00a0minions that cost (4)\u00a0or\u00a0less.
+Taunt Deathrattle: Recruit 2 minions that cost (4) or less.
 Taunt Poisonous
 After you play a minion, summon a copy of it.
-Give your Silver Hand Recruits +2/+2 and\u00a0Taunt.
+Give your Silver Hand Recruits +2/+2 and Taunt.
 Give your minions \Deathrattle: Summon a random basic Totem.\
-Battlecry: Deal 3 damage randomly split among all\u00a0enemies.
+Battlecry: Deal 3 damage randomly split among all enemies.
 Deathrattle: Gain an empty Mana Crystal.
 Copy a spell in your opponent's deck and add it to your hand.
 Battlecry: Summon a 0/8 Treasure Chest for your opponent. (Break it for awesome loot!)
 Battlecry: Return your other minions to your hand. They cost (1).
-Deathrattle: Add 3 Silver\u00a0Hand Recruits to\u00a0your\u00a0hand.
+Deathrattle: Add 3 Silver Hand Recruits to your hand.
 Spend all your Armor. Deal that much damage to all minions.
 Taunt Can only attack if you have 5 or more Armor.
 Battlecry: For each enemy minion, gain 2 Armor.
@@ -1364,13 +1364,13 @@ Recruit a minion.
 Restore 12 Health randomly split among all friendly characters.
 Battlecry: Recruit a minion that costs (4) or less.
 After your hero attacks, Recruit a minion.
-Your hero can't be targeted by spells or Hero\u00a0Powers.
+Your hero can't be targeted by spells or Hero Powers.
 Taunt Battlecry: Summon a random 2-Cost minion for your opponent.
 Battlecry: Restore 2 Health to all friendly characters.
 Battlecry: Return one of your destroyed weapons to your hand.
 Deathrattle: Gain 10 Mana Crystals.
 At the end of your turn, summon a random 1-Cost minion.
-At the end of your turn, restore 3 Health to your\u00a0hero.
+At the end of your turn, restore 3 Health to your hero.
 Battlecry: If you're holding a Dragon, deal 3 damage to all other minions.
 Deathrattle: Summon a 1/1 copy of a minion from your hand.
 Deathrattle: Gain 3 Armor.
@@ -1385,15 +1385,15 @@ After your hero attacks, Discover a spell and cast it with random targets.
 Resurrect 2 different friendly minions. @(Cast 4 spells to upgrade.)
 Battlecry and Deathrattle: Recruit a Beast.
 Battlecry: Choose a friendly minion. Add a Golden copy of it to your hand.
-Battlecry: Your next Battlecry this turn triggers\u00a0twice.
-Battlecry: If you control all 4 basic Totems, summon Al'Akir\u00a0the\u00a0Windlord.
-At the end of your turn, summon a random minion with\u00a0Cost\u00a0equal\u00a0to\u00a0your Armor (up to 10).
+Battlecry: Your next Battlecry this turn triggers twice.
+Battlecry: If you control all 4 basic Totems, summon Al'Akir the Windlord.
+At the end of your turn, summon a random minion with Cost equal to your Armor (up to 10).
 Battlecry: Gain the Deathrattle of a random minion in your deck.
 Battlecry: Recruit a 1, 2, and 3-Attack minion.
 Destroy your opponent's left and right-most minions.
 Starts dormant. Battlecry: Shuffle 3 Candles into the enemy deck. When drawn, this awakens.
 Battlecry: If you're holding a Dragon, swap this minion's Attack with another minion's.
-Battlecry: Swap the Attack and Health of all\u00a0other\u00a0minions.
+Battlecry: Swap the Attack and Health of all other minions.
 Deathrattle: Add a Coin to your hand.
 Battlecry: Summon a 5/5 Dragon for each spell you cast this game that costs (5) or more.
 Battlecry: If you're holding any cards that didn't start in your deck, reduce their Cost by (2).
@@ -1404,7 +1404,7 @@ Battlecry: Swap decks with your opponent. Give them a Ransom spell to swap back.
 Always keeps enchantments. Deathrattle: Shuffle this into your deck.
 Destroy a Demon. Restore 5 Health to your hero.
 Return all minions to their owner's hand.
-Combo: Return a minion to\u00a0its owner's hand.
+Combo: Return a minion to its owner's hand.
 Choose One - Deal 5 damage to a minion; or 2 damage to all enemy minions.
 Choose One - Draw a card; or Restore 5 Health.
 Charge, Divine Shield, Taunt, Windfury
@@ -1417,19 +1417,19 @@ Battlecry: Gain Attack equal to the Attack of your weapon.
 After you summon a minion, deal 1 damage to a random enemy.
 After you cast a spell, deal 1 damage to ALL minions.
 At the start of your turn, destroy ALL minions.
-Taunt Costs (1) less per Attack of\u00a0your weapon.
+Taunt Costs (1) less per Attack of your weapon.
 Can't be targeted by spells or Hero Powers.
 Battlecry: Give your weapon +1/+1.
 Battlecry: Remove 1 Durability from your opponent's weapon.
 Whenever you cast a spell, summon a 1/1 Violet Apprentice.
 Your other Pirates have +1/+1.
 Battlecry: Enemy spells cost (0) next turn.
-Battlecry: Destroy all other minions and discard your\u00a0hand.
+Battlecry: Destroy all other minions and discard your hand.
 Summon a random Beast Companion.
 Your minions can't be reduced below 1 Health this turn. Draw a card.
 At the end of your turn, give another random friendly minion +1 Attack.
 At the end of each turn, gain +1/+1 .
-At the end of your turn, summon a 2/2 Gnoll with\u00a0Taunt.
+At the end of your turn, summon a 2/2 Gnoll with Taunt.
 Battlecry: Destroy a random enemy minion with 2 or less Attack.
 Battlecry: Your Hero Power becomes 'Summon a   1/1 Murloc.'
 Give a minion +1/+1 for each of your Totems.
@@ -1523,12 +1523,12 @@ Summon five 1/1 Silver Hand Recruits.
 Add a copy of each damaged friendly minion to your hand.
 Battlecry: Deal damage equal to this minion's Attack randomly split among all enemies.
 Battlecry: Give your C'Thun +2/+2 (wherever it is).
-Battlecry: Destroy a minion. Add its Attack and Health to\u00a0your C'Thun's (wherever it is).
+Battlecry: Destroy a minion. Add its Attack and Health to your C'Thun's (wherever it is).
 Divine Shield Battlecry: Give your C'Thun +2/+2 (wherever it is).
 Taunt Battlecry: Give your C'Thun Taunt (wherever it is).
 At the end of your turn, give your C'Thun +1/+1 (wherever it is).
 At the start of your turn, put a 10-Cost minion from your deck into your hand.
-Battlecry: Choose a friendly minion. Add a 1/1 copy to\u00a0your hand that costs\u00a0(1).
+Battlecry: Choose a friendly minion. Add a 1/1 copy to your hand that costs (1).
 Battlecry: Give all Deathrattle minions in your hand +1/+1.
 Taunt Battlecry: Give your C'Thun +3/+3 (wherever it is).
 Battlecry: For each enemy minion, restore 2 Health to your hero.
@@ -1555,7 +1555,7 @@ Taunt
 Battlecry: Transform a friendly minion into a random one that costs (1) more.
 Deathrattle: Add a random card to your hand (from your opponent's class).
 Whenever a character is healed, give your C'Thun +1/+1 (wherever it is).
-Deathrattle: Copy a card from your opponent's deck \u00a0and add it to your hand.
+Deathrattle: Copy a card from your opponent's deck  and add it to your hand.
 Taunt. Battlecry: Gain      +1 Health for each enemy minion.
 At the start of your opponent's turn, they have a 50% chance to draw an extra card.
 Battlecry: Give your C'Thun +2/+2 (wherever it is).
@@ -1564,7 +1564,7 @@ Battlecry: Give both players the power to ROCK! (with a Power Chord card)
 Stealth Overkill: Gain 3 Armor.
 Deal 2 damage. Overkill: Summon a basic Totem.
 Overkill: Draw 2 cards.
-Rush Overkill: Summon two 1/1\u00a0Bats.
+Rush Overkill: Summon two 1/1 Bats.
 At the end of your turn, deal 2 damage to the enemy hero.
 The next spell you cast this turn costs (3) less. Discover a spell.
 Battlecry: Return a friendly minion to your hand and give it +2/+2.
@@ -1575,24 +1575,24 @@ Deathrattle: Give your minions Rush.
 Battlecry: Discover a 1/1 copy of a Battlecry minion. It costs (1).
 Give a friendly minion \Deathrattle: Summon a random minion that costs (1) more.\
 Whenever you target a minion with a spell, cast it again on its neighbors.
-Stealth for 1 turn. Your minions' Battlecries \u00a0\u00a0and Combos trigger twice.\u00a0
+Stealth for 1 turn. Your minions' Battlecries   and Combos trigger twice. 
 Battlecry: Discover two cards. Give one to your opponent at random.
-Choose a minion. Add\u00a0a copy of it to your hand.
+Choose a minion. Add a copy of it to your hand.
 Battlecry: If you control a Beast, gain +1 Durability.
 Give a friendly Beast +1/+1, then it attacks a random enemy minion.
-Draw 2 Pirates from\u00a0your deck. Combo: And a weapon.
+Draw 2 Pirates from your deck. Combo: And a weapon.
 Battlecry: Summon 3 Pirates from your deck. Give them Rush.
 Deal 3 damage to a random enemy. Repeat for each of your Pirates.
 Restore 3 Health.
 Whenever you cast a spell, summon a 1/1 Zombie with Taunt.
-Battlecry: Summon a 5/5\u00a0Hotshot.
+Battlecry: Summon a 5/5 Hotshot.
 Discover a weapon (from another class).
 Destroy an undamaged minion.
-Stealth for 1 turn. After your hero attacks and \u00a0\u00a0kills a minion, draw a card.\u00a0\u00a0
-Overkill: Summon a 5/5\u00a0Ironhide Runt.
+Stealth for 1 turn. After your hero attacks and   kills a minion, draw a card.  
+Overkill: Summon a 5/5 Ironhide Runt.
 Battlecry: Deal damage to an enemy minion equal to your hero's Attack.
-After your hero attacks and\u00a0kills a minion, it may\u00a0attack again.
-Give your hero +2\u00a0Attack this turn.
+After your hero attacks and kills a minion, it may attack again.
+Give your hero +2 Attack this turn.
 Draw a Beast from your deck. Double its Health.
 Discard your lowest Cost card. Deal 2 damage to all minions.
 Destroy half of each player's deck.
@@ -1604,8 +1604,8 @@ Battlecry: Fill your board with copies of this minion.
 Choose One - Give a minion +2/+4 and Taunt; or Summon two 3/2 Raptors.
 Summon a random Beast from your hand and give it Rush.
 After a friendly minion dies, deal 2 damage to the enemy hero.
-Force each minion to\u00a0attack another random minion.
-Battlecry: Summon all minions from your hand that\u00a0didn't start in your\u00a0deck.
+Force each minion to attack another random minion.
+Battlecry: Summon all minions from your hand that didn't start in your deck.
 Battlecry: Draw 1-Cost minions from your deck until your hand is full.
 Divine Shield, Rush, Lifesteal  Costs (1) less for each Mana you've spent on spells.
 Your hero is Immune until your next turn.
@@ -1613,15 +1613,15 @@ Overkill: Give a minion in your hand +2/+2.
 Discover a 6-Cost minion. Summon it with Taunt and Divine Shield.
 Deathrattle: Shuffle this into your deck. It keeps any enchantments.
 Restore 4 Health. Draw a card.
-Battlecry: Convert all but 1\u00a0of your Hero's Health into Armor.
+Battlecry: Convert all but 1 of your Hero's Health into Armor.
 Stealth for 1 turn. After you cast a spell, summon a Tiger with stats equal to its Cost.
-The next Elemental you\u00a0play this turn costs (2) less.
-Battlecry: If you played an\u00a0Elemental last turn, deal\u00a03\u00a0damage\u00a0to\u00a0all other minions.
+The next Elemental you play this turn costs (2) less.
+Battlecry: If you played an Elemental last turn, deal 3 damage to all other minions.
 Has Spell Damage +2 while damaged.
 Deal 4 damage to a minion. Costs (1) if you played an Elemental last turn.
-Whenever your Hero Power\u00a0kills a minion, draw a card.
+Whenever your Hero Power kills a minion, draw a card.
 Battlecry: If your Hero Power dealt 8 damage this game, summon Ragnaros the Firelord.@ ( left!)@ (Ready!)
-Deal 2 damage to\u00a0all minions. Overkill: Add a random Mage spell to your hand.
+Deal 2 damage to all minions. Overkill: Add a random Mage spell to your hand.
 Battlecry: Add a copy of your opening hand to your hand (except this card).
 Stealth for 1 turn. Your Hero Power also targets  adjacent minions.
 Deal 4 damage to a damaged minion.
@@ -1635,7 +1635,7 @@ Rush Overkill: Draw a Rush minion from your deck. Give it +5/+5.
 Discover a minion in your deck. If all 3 are Beasts, draw them all.
 Battlecry: Transform your Treants into 5/5 Ancients.
 Choose One - Transform into one of Loti's four dinosaur forms.
-Battlecry: Return all spells you played last turn to\u00a0your hand.
+Battlecry: Return all spells you played last turn to your hand.
 Deal 3 damage. Overkill: Summon a 5/5 Devilsaur.
 Rush Battlecry: Add a 1/1 Lynx with Rush to your hand.
 Battlecry: If you have a weapon equipped, Discover a spell.
@@ -1643,8 +1643,8 @@ Summon three 2/4 Toads with Taunt. Overload: (3)
 Has +2 Attack while you have Overloaded Mana Crystals.
 After you play a minion, deal 1 damage to it.
 Add 2 random Dragons to your hand.
-Deathrattle: Summon a 0/3 Free Agent with Taunt for\u00a0your opponent.
-Battlecry: Your next Hero Power this turn deals 2\u00a0more damage.
+Deathrattle: Summon a 0/3 Free Agent with Taunt for your opponent.
+Battlecry: Your next Hero Power this turn deals 2 more damage.
 Secret: When one of your minions is attacked, summon a copy of it.
 Whenever you draw a Beast, give it +2/+2.
 Has +4 Attack while damaged.
@@ -1659,28 +1659,28 @@ Battlecry: Give your opponent a Coin.
 Deathrattle: Reduce the Cost of a Beast in your hand by (1).
 Overkill: Gain +5 Attack.
 After your hero attacks, summon a 1/1 Pirate.
-At the start of your turn, restore 2 Health to this\u00a0minion.
+At the start of your turn, restore 2 Health to this minion.
 Battlecry: Add 2 Bananas to your hand.
 Lifesteal Battlecry: Deal 1 damage.
 Taunt Divine Shield
 Taunt Battlecry: If your opponent has 2 or more minions, gain +1 Attack.
 Taunt Costs (1) less for each enemy minion.
-At the start of your turn, destroy this and gain 8\u00a0Armor.
+At the start of your turn, destroy this and gain 8 Armor.
 Battlecry: Give all minions in your hand +1/+1.
 Deathrattle: Draw 2 Murlocs from your deck.
 Overkill: Summon another Arena Patron.
-Battlecry: If you played 2\u00a0spells this turn, deal 2\u00a0damage.
+Battlecry: If you played 2 spells this turn, deal 2 damage.
 Battlecry: If you're holding a Dragon, Discover a spell.
 Battlecry: Silence an enemy minion with Taunt.
 Deathrattle: Draw 2 cards.
 Battlecry: Deal 1 damage to all other minions.
 Battlecry: Give each player a copy of a random card from their opponent's deck.
 Overkill: Double this minion's Attack.
-Battlecry: If you control a\u00a0Secret, play a Secret from\u00a0your deck.
+Battlecry: If you control a Secret, play a Secret from your deck.
 Deathrattle: Summon a 3/2 Rumbletusk Breaker.
 Enemies attacking this have a 50% chance to attack someone else.
-Battlecry: If you control a\u00a0Frozen minion, gain 8\u00a0Armor.
-Whenever an adjacent minion takes damage, this \u00a0minion takes it instead.
+Battlecry: If you control a Frozen minion, gain 8 Armor.
+Whenever an adjacent minion takes damage, this  minion takes it instead.
 Battlecry: Gain the Deathrattle effects of 3 friendly minions that died this game.
 Deathrattle: Shuffle a Corrupted Blood into each player's deck.
 Rush Overkill: Summon a Beast from your hand.
@@ -1694,35 +1694,35 @@ Battlecry: Set each player to 5 Mana Crystals.
 Summon your Beasts that died this turn.
 Battlecry: If you're holding a Dragon, deal 7 damage to an enemy minion.
 Whenever you restore 3 or more Health to your hero, draw a card.
-Battlecry: Fill your hand with 1/1 Lynxes that have\u00a0Rush.
+Battlecry: Fill your hand with 1/1 Lynxes that have Rush.
 Stealth for 1 turn. Whenever you summon a  Beast, give it +1/+1.
 Whenever a minion dies, gain +1 Attack.
 Secret: When an enemy casts a spell on a minion, summon a 1/3 as the new target.
 Battlecry: Adapt.
-Battlecry: Adapt, then\u00a0Adapt.
+Battlecry: Adapt, then Adapt.
 Set a minion's Attack and Health to 10.
-Battlecry: If you control at\u00a0least 2 other minions, Adapt.
+Battlecry: If you control at least 2 other minions, Adapt.
 Deathrattle: Summon three 1/1 Murlocs.
 Battlecry: Discover a Secret.
 Taunt Battlecry: Set all other minions' Attack and Health to 3.
-Deal 2 damage. Add a 1/2 Elemental to\u00a0your hand.
+Deal 2 damage. Add a 1/2 Elemental to your hand.
 Can't be targeted by spells or Hero Powers.
 Battlecry: Draw a Secret from your deck.
 Battlecry: If you played an Elemental last turn, add a 'Flame Geyser' to your hand.
 Battlecry: Choose a friendly minion. Summon a 1/1 copy of it.
 Secret: When your opponent casts a spell, add a copy to your hand that costs (0).
-Deal 15 damage randomly split among all\u00a0minions. Overload: (2)
-Deathrattle: Return this to\u00a0your hand as a 6/6 that costs (6).
+Deal 15 damage randomly split among all minions. Overload: (2)
+Deathrattle: Return this to your hand as a 6/6 that costs (6).
 Quest: Cast 6 spells that didn't start in your deck. Reward: Time Warp.
 Discover a copy of a spell in your deck.
 Restore 5 Health to a minion and your hero.
-Deathrattle: Copy a card from your opponent's deck \u00a0and add it to your hand.
+Deathrattle: Copy a card from your opponent's deck  and add it to your hand.
 Your spells cost (1) less.
 Battlecry: Look at 3 cards. Guess which one started in your opponent's deck to get a copy of it.
-Taunt Deathrattle: Give a random \u00a0friendly minion +1/+1.
-Battlecry: Destroy a friendly minion to Adapt\u00a0twice.
+Taunt Deathrattle: Give a random  friendly minion +1/+1.
+Battlecry: Destroy a friendly minion to Adapt twice.
 Taunt Has +3 Attack during your opponent's turn.
-Add two Razorpetals to\u00a0your hand that deal\u00a01 damage.
+Add two Razorpetals to your hand that deal 1 damage.
 Battlecry: Add a Razorpetal to your hand that deals 1 damage.
 Draw a card, then add a copy of it to your hand.
 Costs (1) less for each card you've played from another class.
@@ -1730,22 +1730,22 @@ Combo: Gain +1/+1 for each other card you've played this turn.
 Combo: Destroy a minion.
 Deathrattle: Go dormant. Play 4 cards in a turn to revive this minion.
 Quest: Play five minions with the same name. Reward: Crystal Core.
-Battlecry: If you played an Elemental last turn, gain \u00a0Taunt and Divine\u00a0Shield.
+Battlecry: If you played an Elemental last turn, gain  Taunt and Divine Shield.
 Taunt
-Taunt Battlecry: Discover a Taunt\u00a0minion.
+Taunt Battlecry: Discover a Taunt minion.
 Battlecry: Give a friendly Murloc +1/+1.
-After this minion attacks a\u00a0hero, Adapt.
+After this minion attacks a hero, Adapt.
 Deathrattle: Summon two 1/1 Raptors.
 Battlecry: Add a random minion with 5 or more Attack to your hand.
 After this minion attacks, Freeze it.
-Battlecry: If you played an\u00a0Elemental last turn, Adapt.
+Battlecry: If you played an Elemental last turn, Adapt.
 Deathrattle: Summon a 5/5 Devilsaur.
 Battlecry: Deal 2 damage.
 Your minions cost (2) more.
 Deathrattle: Summon a minion from your hand with 5 or more Attack.
-Whenever this minion takes damage, deal 3 damage to\u00a0your hero.
-Battlecry: Discover a spell\u00a0and cast it with random targets.
-Battlecry: Adapt your\u00a0Murlocs.
+Whenever this minion takes damage, deal 3 damage to your hero.
+Battlecry: Discover a spell and cast it with random targets.
+Battlecry: Adapt your Murlocs.
 Charge Battlecry: Can't attack heroes this turn.
 Battlecry: Adapt.
 Choose One - Transform into a 5/3 with Stealth; or a 3/5 with Taunt.
@@ -1756,12 +1756,12 @@ Transform your Mana Crystals into 2/2 Treants. Recover the mana when they die.
 Battlecry: Draw a card. Change its Cost to (5).
 Quest: Summon 5 minions with 5 or more Attack. Reward: Barnabus.
 At the end of your turn, summon a 1/1 Murloc.
-Battlecry: Reduce the Cost of Elementals in your hand\u00a0by (1).
-Battlecry: Freeze an\u00a0enemy.
+Battlecry: Reduce the Cost of Elementals in your hand by (1).
+Battlecry: Freeze an enemy.
 Battlecry: If you played an Elemental last turn, summon two 2/3 Elementals with Taunt.
 Battlecry: If you played an Elemental last turn, cast an Elemental Invocation.
 Battlecry: Trigger a friendly minion's Deathrattle.
-Battlecry: If you control at\u00a0least 2 other minions, gain Taunt.
+Battlecry: If you control at least 2 other minions, gain Taunt.
 Battlecry: Deal 1 damage to each hero.
 Battlecry: Destroy a Pirate and gain +1/+1.
 Taunt   Poisonous
@@ -1770,7 +1770,7 @@ Taunt
 Stealth
 Windfury
 Stealth  Poisonous
-Battlecry: If you played an Elemental last turn, \u00a0Discover an Elemental.
+Battlecry: If you played an Elemental last turn,  Discover an Elemental.
 Deal 4 damage to a minion. Restore 4 Health to your hero.
 Deathrattle: Deal 3 damage to a random enemy minion.
 Give your weapon Poisonous.
@@ -1782,15 +1782,15 @@ Taunt Battlecry: Discard two random cards.
 Deal 3 damage to a minion. Summon three 1/1 Pterrordaxes.
 Battlecry: Discover a spell. Deal damage to your hero equal to its Cost.
 Whenever you discard this, give it +2/+2 and return it to your hand.
-Taunt Has +4 Attack during your opponent\u2019s turn.
-Battlecry: Destroy all cards in your deck that cost (3)\u00a0or less.
+Taunt Has +4 Attack during your opponent's turn.
+Battlecry: Destroy all cards in your deck that cost (3) or less.
 After you cast a spell on this minion, summon a 1/1 Plant and cast another copy on it.
 Can't attack.
 Deathrattle: Add two 1/2 Elementals to your hand.
 Deathrattle: Add a random Mage spell to your hand.
-Battlecry: If you played an\u00a0Elemental last turn, deal 5 damage.
+Battlecry: If you played an Elemental last turn, deal 5 damage.
 Taunt Battlecry: Deal 2 damage to all other minions.
-Battlecry: Shuffle a sealed\u00a0Un'Goro pack into\u00a0your deck.
+Battlecry: Shuffle a sealed Un'Goro pack into your deck.
 Can't be targeted by spells or Hero Powers.
 Discover a minion that costs (8) or more. Summon it.
 Discover a card from your opponent's class.
@@ -1800,22 +1800,22 @@ Deal 2 damage to a minion and 1 damage to adjacent ones.
 Battlecry: Add a random Beast to your hand.
 Battlecry: Draw two 1-Cost minions from your deck.
 Deathrattle: Shuffle a 4/3 Raptor into your deck.
-Battlecry: Adapt a friendly\u00a0Beast.
-Each time you play a Beast this turn, add\u00a0a\u00a0random Beast to\u00a0your hand.
+Battlecry: Adapt a friendly Beast.
+Each time you play a Beast this turn, add a random Beast to your hand.
 Your Hero Power becomes 'Give a Beast +2/+2.'
-After your opponent plays a minion, attack\u00a0it.
+After your opponent plays a minion, attack it.
 Quest: Play seven 1-Cost minions. Reward: Queen Carnassa.
-Replace your deck with\u00a0copies of \Discover a card.\
+Replace your deck with copies of \Discover a card.\
 Gain 5 Armor.
 Taunt Battlecry: Adapt.
-Taunt. Battlecry: Summon three 1/1 Raptors for your\u00a0opponent.
+Taunt. Battlecry: Summon three 1/1 Raptors for your opponent.
 Summon copies of your damaged minions.
 Taunt Has +2 Attack during your opponent's turn.
 Each turn this is in your hand, transform it into a new weapon.
 Battlecry: Destroy all damaged minions.
 Quest: Play 7 Taunt minions. Reward: Sulfuras.
-Battlecry: If you control another Murloc, Discover a\u00a0Murloc.
-Taunt Battlecry: Restore 3\u00a0Health.
+Battlecry: If you control another Murloc, Discover a Murloc.
+Taunt Battlecry: Restore 3 Health.
 Quest: Summon 7 Deathrattle minions. Reward: Amara, Warden of Hope.
 Discover a spell. Reduce its Cost by (2).
 Quest: Summon 10 Murlocs. Reward: Megafin.
@@ -1826,9 +1826,9 @@ Give a minion +2/+6 and Taunt. When it dies, summon a Stegodon.
 Deathrattle: Return any spells you cast on this minion to your hand.
 Quest: Cast 6 spells on your minions. Reward: Galvadon.
 Deal 15 damage to a minion and 3 damage to adjacent ones.
-Give your minions \Deathrattle: Return \u00a0this to your hand.\
+Give your minions \Deathrattle: Return  this to your hand.\
 Taunt Deathrattle: Shuffle a 6/9 Direhorn with Taunt into your deck.
 Summon two 1/1 Silver Hand Recruits.
 Adapt a friendly minion.
-Battlecry: Adapt your Silver\u00a0Hand Recruits.
+Battlecry: Adapt your Silver Hand Recruits.
 Whenever you cast a spell, add a random Priest spell to your hand.
