@@ -7,8 +7,6 @@ from druidscanbot_subreddit_processor import DruidscanbotSubredditProcessor
 from post_generator import PostGenerator
 
 dryRun = len(sys.argv) > 1 and sys.argv[1] == '-d'
-
-database = Database('posts_replied_to.txt')
 hearthstoneCirclejerkSubredditProcessor = HearthstoneCirclejerkSubredditProcessor()
 druidscanbotSubredditProcessor = DruidscanbotSubredditProcessor()
 postGenerator = PostGenerator()
@@ -19,6 +17,8 @@ druidscanbotSubreddit = reddit.subreddit('DruidscanBot')
 
 commentsWithBracketedTexts = hearthstoneCirclejerkSubredditProcessor.process(herbjerkSubreddit)
 imagePosts = druidscanbotSubredditProcessor.process(druidscanbotSubreddit)
+
+database = Database('posts_replied_to.txt')
 
 commentsToReplyTo = [x for x in commentsWithBracketedTexts if x.post.id not in database.postsRepliedTo()]
 
