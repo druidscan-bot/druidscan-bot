@@ -34,4 +34,4 @@ class PostGenerator:
         health = random.choice(self.__healthValues) if cardType != 'Spell' else '-'
         minionType = random.choice(self.__types) + ' ' if cardType == 'Minion' else ''
         description = self.__descriptionGenerator.generate_description(2)
-        return f'* **[{name}]({imageUrl})** ([Thread]({postUrl})) **{selectedClass} | {cardType} | {rarity} | {expansion}**\n\n {manaCost}/{attack}/{health} {minionType}| {description}'
+        return f'* **[{name}]({imageUrl})** ([Thread]({postUrl})) **{selectedClass} | {cardType} | {rarity} | {expansion}**\n\n {manaCost}/{attack}/{health} {minionType}| {description}\n\n'
