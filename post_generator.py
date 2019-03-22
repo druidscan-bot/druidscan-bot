@@ -8,12 +8,15 @@ class PostGenerator:
         self.__classes = ['Neutral', 'Druid', 'Hunter', 'Mage', 
                         'Paladin', 'Priest', 'Rogue', 'Shaman', 'Warlock', 'Warrior']
         self.__types = ['Minion', 'Spell', 'Weapon']
+        self.__typeWeights = [7, 2, 1]
         self.__rarities = ['Common', 'Rare', 'Epic', 'Legendary']
+        self.__rarityWeights = [664, 482, 313, 276]
         self.__manaCosts = range(11)
         self.__attackValues = range(13)
         self.__healthValues = range(1, 13)
-        self.__types = ['', 'Beast', 'Demon', 'Dragon',
+        self.__minionTypes = ['', 'Beast', 'Demon', 'Dragon',
                         'Elemental', 'Mech', 'Murloc', 'Pirate', 'Totem', 'All']
+        self.__minionTypeWeights = [5, 3, 3, 3, 3, 3, 3, 3, 2, 1]
                         
     def generate_post_text(self, CommentWithBracketedTexts, imagePosts):
         postText = ''
@@ -26,12 +29,12 @@ class PostGenerator:
     def __generate_post_description(self, name, imageUrl, postUrl):
         name = name if name != '' else '_'
         selectedClass = random.choice(self.__classes)
-        cardType = random.choice(self.__types)
-        rarity = random.choice(self.__rarities)
+        cardType = random.choices(self.__types, weights=self.__typeWeights)[0]
+        rarity = random.choices(self.__rarities, weights=self.__rarityWeights)[0]
         expansion = ''.join(random.choice(string.ascii_lowercase) for _ in range(3)).upper()
         manaCost = random.choice(self.__manaCosts)
         attack = random.choice(self.__attackValues) if cardType != 'Spell' else '-'
         health = random.choice(self.__healthValues) if cardType != 'Spell' else '-'
-        minionType = random.choice(self.__types) + ' ' if cardType == 'Minion' else ''
+        minionType = random.choices(self.__minionTypes, weights=self.__minionTypeWeights)[0] if cardType == 'Minion' else ''
         description = self.__descriptionGenerator.generate_description(2)
         return f'* **[{name}]({imageUrl})** ([Thread]({postUrl})) **{selectedClass} | {cardType} | {rarity} | {expansion}**\n\n {manaCost}/{attack}/{health} {minionType}| {description}\n\n'
