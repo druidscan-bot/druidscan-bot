@@ -14,8 +14,8 @@ class PostGenerator:
         self.__manaCosts = range(11)
         self.__attackValues = range(13)
         self.__healthValues = range(1, 13)
-        self.__minionTypes = ['', 'Beast', 'Demon', 'Dragon',
-                        'Elemental', 'Mech', 'Murloc', 'Pirate', 'Totem', 'All']
+        self.__minionTypes = ['', 'Beast ', 'Demon ', 'Dragon ',
+                        'Elemental ', 'Mech ', 'Murloc ', 'Pirate ', 'Totem ', 'All ']
         self.__minionTypeWeights = [5, 3, 3, 3, 3, 3, 3, 3, 2, 1]
                         
     def generate_post_text(self, CommentWithBracketedTexts, imagePosts):
