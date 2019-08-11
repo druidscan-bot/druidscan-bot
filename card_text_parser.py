@@ -20,7 +20,7 @@ def turnRowToString(row):
         .replace("\\u2019", "'")\
         .replace("\\n", " ")
 
-request = urllib.request.Request("https://api.hearthstonejson.com/v1/28855/enUS/cards.collectible.json", headers={'Accept': 'text/html', 'User-Agent': 'Mozilla/5.0'})
+request = urllib.request.Request("https://api.hearthstonejson.com/v1/32708/enUS/cards.collectible.json", headers={'Accept': 'text/html', 'User-Agent': 'Mozilla/5.0'})
 with urllib.request.urlopen(request) as response:
     content = response.read()
 
