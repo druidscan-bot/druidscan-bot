@@ -1,6 +1,7 @@
-import praw
 import os
+import praw
 import sys
+from datetime import datetime
 from database import Database
 from hearthstone_circlejerk_subreddit_processor import HearthstoneCirclejerkSubredditProcessor
 from druidscanbot_subreddit_processor import DruidscanbotSubredditProcessor
@@ -9,7 +10,8 @@ from post_generator import PostGenerator
 dryRun = len(sys.argv) > 1 and sys.argv[1] == '-d'
 hearthstoneCirclejerkSubredditProcessor = HearthstoneCirclejerkSubredditProcessor()
 druidscanbotSubredditProcessor = DruidscanbotSubredditProcessor()
-postGenerator = PostGenerator()
+today = datetime.today()
+postGenerator = PostGenerator(today.day == 1 and today.month == 4)
 
 reddit = praw.Reddit('bot1')
 herbjerkSubreddit = reddit.subreddit('HearthstoneCircleJerk')

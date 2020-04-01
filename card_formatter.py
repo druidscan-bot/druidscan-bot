@@ -1,9 +1,10 @@
 class CardFormatter:
     def format_card(self, card, imageUrl, postUrl, expansion):
-        description = self.__clean_description(card.description)
+        description = f'| {self.__clean_description(card.description)}' if card.description else ''
         race = f' {card.race} ' if card.race else ' '
         attack = card.attack if card.cardType != 'Spell' else '-'
-        return f"* **[{card.name}]({imageUrl})** ([Thread]({postUrl})) **{card.playerClass} | {card.cardType} | {card.rarity} | {expansion}**\n\n {card.manaCost}/{attack}/{card.health or card.durability or '-'}{race}| {description}\n\n"
+        thread = f' ([Thread]({postUrl}))' if postUrl else ''
+        return f"* **[{card.name}]({imageUrl})**{thread} **{card.playerClass} | {card.cardType} | {card.rarity} | {expansion}**\n\n {card.manaCost}/{attack}/{card.health or card.durability or '-'}{race}{description}\n\n"
     def __clean_description(self, description):
         return description\
         .replace("\"", "")\
